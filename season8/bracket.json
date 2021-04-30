@@ -1,0 +1,479 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Phoenix Freshrolls",
+                "team2Name": "Jersey OSHA Violations",
+                "team1Abbr": "FF",
+                "team2Abbr": "OSHA",
+                "patternName": "doublegaussian",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "9918534c-de93-4500-87ec-355bd0f950f2",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Ft. Worth Piano Tuners",
+                "team2Name": "Long Beach Flightless Birds",
+                "team1Abbr": "FWPT",
+                "team2Abbr": "LBFB",
+                "patternName": "porchlights",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "1f64655c-5973-4621-acb3-6c130902c47b",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Detroit Grape Chews",
+                "team2Name": "Boylston Boogers",
+                "team1Abbr": "DET",
+                "team2Abbr": "BB",
+                "patternName": "donutrandompartition",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "017f608e-4793-4195-a1ae-bc71c35350f8",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Milwaukee Flamingos",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "MILF",
+                "team2Abbr": "SGE",
+                "patternName": "randomsegment",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "fa0ada89-6945-41d9-a11e-e1ac1d593104",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Phoenix Freshrolls",
+                "team2Name": "Jersey OSHA Violations",
+                "team1Abbr": "FF",
+                "team2Abbr": "OSHA",
+                "patternName": "randomsegment",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "33b6da66-d64e-449b-bce3-a3eb3e088f4a",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Ft. Worth Piano Tuners",
+                "team2Name": "Long Beach Flightless Birds",
+                "team1Abbr": "FWPT",
+                "team2Abbr": "LBFB",
+                "patternName": "randys",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "129470df-03c0-4936-a853-825779b71421",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Detroit Grape Chews",
+                "team2Name": "Boylston Boogers",
+                "team1Abbr": "DET",
+                "team2Abbr": "BB",
+                "patternName": "donuttimebomb",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "84d35d5d-becb-4898-bba6-fc3a3b805a5c",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Milwaukee Flamingos",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "MILF",
+                "team2Abbr": "SGE",
+                "patternName": "donutpi",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "77e623b3-ad8b-4273-84d6-2988a4dd83ee",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Jersey OSHA Violations",
+                "team2Name": "Phoenix Freshrolls",
+                "team1Abbr": "OSHA",
+                "team2Abbr": "FF",
+                "patternName": "crabdonuts",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "570be3d4-4b4a-4810-8131-d3c1ebdc7670",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Long Beach Flightless Birds",
+                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "FWPT",
+                "patternName": "donutrandompartition",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "2988e9cc-fb56-4346-a1f0-c5eceb756261",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Boylston Boogers",
+                "team2Name": "Detroit Grape Chews",
+                "team1Abbr": "BB",
+                "team2Abbr": "DET",
+                "patternName": "donutcore",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "3d7a46e5-0735-459b-99df-1d4c3433b687",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team2Name": "Milwaukee Flamingos",
+                "team1Abbr": "SGE",
+                "team2Abbr": "MILF",
+                "patternName": "donutmultums",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "516ae944-92ae-4884-8c05-4e3a01d996b3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Jersey OSHA Violations",
+                "team2Name": "Phoenix Freshrolls",
+                "team1Abbr": "OSHA",
+                "team2Abbr": "FF",
+                "patternName": "porchlights",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "9deb701a-ccbb-4b1d-9ed6-4c46e99d947c",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Long Beach Flightless Birds",
+                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "FWPT",
+                "patternName": "donutrandompartition",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "ebc9c12b-2f41-41ba-a40c-045608424ae1",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Boylston Boogers",
+                "team2Name": "Detroit Grape Chews",
+                "team1Abbr": "BB",
+                "team2Abbr": "DET",
+                "patternName": "donutrandom",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "59ba1d56-5170-49d7-80f1-46550ebe56cd",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Sugar Grove Eavesdroppers",
+                "team2Name": "Milwaukee Flamingos",
+                "team1Abbr": "SGE",
+                "team2Abbr": "MILF",
+                "patternName": "crabdonuts",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "a91189df-af7c-4261-8487-ecc235b573ab",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Phoenix Freshrolls",
+                "team2Name": "Jersey OSHA Violations",
+                "team1Abbr": "FF",
+                "team2Abbr": "OSHA",
+                "patternName": "quadjustyna",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "9aa869b0-86c1-4eca-a6c0-d80b7de05ecf",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Ft. Worth Piano Tuners",
+                "team2Name": "Long Beach Flightless Birds",
+                "team1Abbr": "FWPT",
+                "team2Abbr": "LBFB",
+                "patternName": "donutrandom",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "78f6ae73-f433-4908-a261-5a946793c0a0",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Detroit Grape Chews",
+                "team2Name": "Boylston Boogers",
+                "team1Abbr": "DET",
+                "team2Abbr": "BB",
+                "patternName": "donuttimebomb",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "3d381cc4-561a-409a-80f8-f3d5efb001f0",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Milwaukee Flamingos",
+                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Abbr": "MILF",
+                "team2Abbr": "SGE",
+                "patternName": "crabdonuts",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "a984417b-6b75-406d-ba13-1557f9e02ee8",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutrandompartition",
+                "league": "Cold League",
+                "season": 8,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "46276c1f-60ab-4fa9-bb0b-488bd8befd62",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutrandom",
+                "league": "Hot League",
+                "season": 8,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "5394126e-5625-4418-9196-4c85decb93a7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmethuselahs",
+                "league": "Cold League",
+                "season": 8,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "a0cafa32-535c-420f-91b3-338f2163c00f",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "doublegaussian",
+                "league": "Hot League",
+                "season": 8,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "be90b5f2-82ae-4316-92ff-50a11b228aee",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randomsegment",
+                "league": "Cold League",
+                "season": 8,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "e3628c01-b9fe-4bc9-8110-5c8e990c6e16",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donuttimebombredux",
+                "league": "Hot League",
+                "season": 8,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "b82cd8a4-35e7-48ab-a6ff-12c58508b3d7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmethuselahs",
+                "league": "Cold League",
+                "season": 8,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "63018bac-48d2-482a-82f6-0776483d046b",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutpi",
+                "league": "Hot League",
+                "season": 8,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "11c410f9-aa81-4c77-8416-37b290dd2eb0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donuttimebomb",
+                "league": "Cold League",
+                "season": 8,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "535bcc96-aadb-483e-9360-961d1cdddf97",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmath",
+                "league": "Hot League",
+                "season": 8,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "1ee204d3-59f5-47dc-8ef5-e16fad64ea2e",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutrandom",
+                "description": "Game 1, Toroidal Cup",
+                "season": 8,
+                "id": "c2dba383-ea46-4dcb-9655-b697213449f7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "crabdonuts",
+                "description": "Game 2, Toroidal Cup",
+                "season": 8,
+                "id": "9d05763c-b308-4f3d-9e81-4874a29a84db",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donuttimebomb",
+                "description": "Game 3, Toroidal Cup",
+                "season": 8,
+                "id": "6df0903a-058a-47b4-884f-6fa84f87072d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "quadjustyna",
+                "description": "Game 4, Toroidal Cup",
+                "season": 8,
+                "id": "6216fb5c-36e1-4f4f-81f4-02eb5d03c3ad",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutcore",
+                "description": "Game 5, Toroidal Cup",
+                "season": 8,
+                "id": "f8606f68-3bd3-4a94-97db-807cc51c4d32",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmethuselahs",
+                "description": "Game 6, Toroidal Cup",
+                "season": 8,
+                "id": "7336f99a-8a1b-4d9d-ab7a-f86bcfbf6932",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "doublegaussian",
+                "description": "Game 7, Toroidal Cup",
+                "season": 8,
+                "id": "67b4e0f9-eff4-4bb5-9323-dfb56246c93b",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
