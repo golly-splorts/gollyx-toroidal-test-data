@@ -4,8 +4,8 @@
             {
                 "league": "Cold League",
                 "season": 7,
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "San Diego Balloon Animals",
+                "team1Name": "Yuma Cholera",
+                "team2Name": "Lake Havasu City Counter-Spies",
                 "team1Abbr": "FWPT",
                 "team2Abbr": "SDBA",
                 "description": "Game 1, Cold League Division Series 1",
@@ -51,8 +51,8 @@
             {
                 "league": "Cold League",
                 "season": 7,
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "SLC",
                 "team2Abbr": "OSHA",
                 "description": "Game 1, Cold League Division Series 2",
@@ -98,8 +98,8 @@
             {
                 "league": "Hot League",
                 "season": 7,
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "SAC",
                 "team2Abbr": "DET",
                 "description": "Game 1, Hot League Division Series 1",
@@ -145,8 +145,8 @@
             {
                 "league": "Hot League",
                 "season": 7,
-                "team1Name": "Alewife Arsonists",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Tempe Fisticuffs",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "AA",
                 "team2Abbr": "BB",
                 "description": "Game 1, Hot League Division Series 2",
@@ -194,8 +194,8 @@
             {
                 "league": "Cold League",
                 "season": 7,
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "San Diego Balloon Animals",
+                "team1Name": "Yuma Cholera",
+                "team2Name": "Lake Havasu City Counter-Spies",
                 "team1Abbr": "FWPT",
                 "team2Abbr": "SDBA",
                 "description": "Game 2, Cold League Division Series 1",
@@ -241,8 +241,8 @@
             {
                 "league": "Cold League",
                 "season": 7,
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "SLC",
                 "team2Abbr": "OSHA",
                 "description": "Game 2, Cold League Division Series 2",
@@ -288,8 +288,8 @@
             {
                 "league": "Hot League",
                 "season": 7,
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "SAC",
                 "team2Abbr": "DET",
                 "description": "Game 2, Hot League Division Series 1",
@@ -335,8 +335,8 @@
             {
                 "league": "Hot League",
                 "season": 7,
-                "team1Name": "Alewife Arsonists",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Tempe Fisticuffs",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "AA",
                 "team2Abbr": "BB",
                 "description": "Game 2, Hot League Division Series 2",
@@ -384,8 +384,8 @@
             {
                 "league": "Cold League",
                 "season": 7,
-                "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Name": "Lake Havasu City Counter-Spies",
+                "team2Name": "Yuma Cholera",
                 "team1Abbr": "SDBA",
                 "team2Abbr": "FWPT",
                 "description": "Game 3, Cold League Division Series 1",
@@ -431,8 +431,8 @@
             {
                 "league": "Cold League",
                 "season": 7,
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "OSHA",
                 "team2Abbr": "SLC",
                 "description": "Game 3, Cold League Division Series 2",
@@ -478,8 +478,8 @@
             {
                 "league": "Hot League",
                 "season": 7,
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "DET",
                 "team2Abbr": "SAC",
                 "description": "Game 3, Hot League Division Series 1",
@@ -525,8 +525,8 @@
             {
                 "league": "Hot League",
                 "season": 7,
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Alewife Arsonists",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Tempe Fisticuffs",
                 "team1Abbr": "BB",
                 "team2Abbr": "AA",
                 "description": "Game 3, Hot League Division Series 2",
@@ -574,8 +574,8 @@
             {
                 "league": "Cold League",
                 "season": 7,
-                "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Name": "Lake Havasu City Counter-Spies",
+                "team2Name": "Yuma Cholera",
                 "team1Abbr": "SDBA",
                 "team2Abbr": "FWPT",
                 "description": "Game 4, Cold League Division Series 1",
@@ -621,8 +621,8 @@
             {
                 "league": "Hot League",
                 "season": 7,
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "DET",
                 "team2Abbr": "SAC",
                 "description": "Game 4, Hot League Division Series 1",
@@ -668,8 +668,8 @@
             {
                 "league": "Hot League",
                 "season": 7,
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Alewife Arsonists",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Tempe Fisticuffs",
                 "team1Abbr": "BB",
                 "team2Abbr": "AA",
                 "description": "Game 4, Hot League Division Series 2",
@@ -717,8 +717,8 @@
             {
                 "league": "Hot League",
                 "season": 7,
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "SAC",
                 "team2Abbr": "DET",
                 "description": "Game 5, Hot League Division Series 1",
@@ -766,8 +766,8 @@
     "LCS": [
         [
             {
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Yuma Cholera",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "FWPT",
                 "team2Abbr": "SLC",
                 "league": "Cold League",
@@ -813,8 +813,8 @@
                 ]
             },
             {
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "SAC",
                 "team2Abbr": "BB",
                 "league": "Hot League",
@@ -862,8 +862,8 @@
         ],
         [
             {
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Yuma Cholera",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "FWPT",
                 "team2Abbr": "SLC",
                 "league": "Cold League",
@@ -909,8 +909,8 @@
                 ]
             },
             {
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "SAC",
                 "team2Abbr": "BB",
                 "league": "Hot League",
@@ -958,8 +958,8 @@
         ],
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Yuma Cholera",
                 "team1Abbr": "SLC",
                 "team2Abbr": "FWPT",
                 "league": "Cold League",
@@ -1005,8 +1005,8 @@
                 ]
             },
             {
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "BB",
                 "team2Abbr": "SAC",
                 "league": "Hot League",
@@ -1054,8 +1054,8 @@
         ],
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Yuma Cholera",
                 "team1Abbr": "SLC",
                 "team2Abbr": "FWPT",
                 "league": "Cold League",
@@ -1101,8 +1101,8 @@
                 ]
             },
             {
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "BB",
                 "team2Abbr": "SAC",
                 "league": "Hot League",
@@ -1152,8 +1152,8 @@
     "HCS": [
         [
             {
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Yuma Cholera",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "FWPT",
                 "team2Abbr": "SAC",
                 "description": "Game 1, Toroidal Cup",
@@ -1200,8 +1200,8 @@
         ],
         [
             {
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Yuma Cholera",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "FWPT",
                 "team2Abbr": "SAC",
                 "description": "Game 2, Toroidal Cup",
@@ -1248,8 +1248,8 @@
         ],
         [
             {
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Yuma Cholera",
                 "team1Abbr": "SAC",
                 "team2Abbr": "FWPT",
                 "description": "Game 3, Toroidal Cup",
@@ -1296,8 +1296,8 @@
         ],
         [
             {
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Yuma Cholera",
                 "team1Abbr": "SAC",
                 "team2Abbr": "FWPT",
                 "description": "Game 4, Toroidal Cup",
@@ -1344,8 +1344,8 @@
         ],
         [
             {
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Yuma Cholera",
                 "team1Abbr": "SAC",
                 "team2Abbr": "FWPT",
                 "description": "Game 5, Toroidal Cup",
@@ -1392,8 +1392,8 @@
         ],
         [
             {
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Yuma Cholera",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "FWPT",
                 "team2Abbr": "SAC",
                 "description": "Game 6, Toroidal Cup",
@@ -1440,8 +1440,8 @@
         ],
         [
             {
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Yuma Cholera",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "FWPT",
                 "team2Abbr": "SAC",
                 "description": "Game 7, Toroidal Cup",

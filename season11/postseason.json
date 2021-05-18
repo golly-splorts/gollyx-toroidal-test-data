@@ -4,8 +4,8 @@
             {
                 "league": "Cold League",
                 "season": 11,
-                "team1Name": "Elko Astronauts",
-                "team2Name": "Seattle Sneakers",
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Green Valley Toxoplasmosis",
                 "team1Abbr": "EA",
                 "team2Abbr": "SS",
                 "description": "Game 1, Cold League Division Series 1",
@@ -51,8 +51,8 @@
             {
                 "league": "Cold League",
                 "season": 11,
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Scottsdale Knuckeballers",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "TB",
                 "description": "Game 1, Cold League Division Series 2",
@@ -98,8 +98,8 @@
             {
                 "league": "Hot League",
                 "season": 11,
-                "team1Name": "Orlando Business Majors",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Prescott Universal Constants",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "ORL",
                 "team2Abbr": "DET",
                 "description": "Game 1, Hot League Division Series 1",
@@ -145,8 +145,8 @@
             {
                 "league": "Hot League",
                 "season": 11,
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Albuquerque Solarpunks",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Prescott Examiners",
                 "team1Abbr": "SAC",
                 "team2Abbr": "ABQ",
                 "description": "Game 1, Hot League Division Series 2",
@@ -194,8 +194,8 @@
             {
                 "league": "Cold League",
                 "season": 11,
-                "team1Name": "Elko Astronauts",
-                "team2Name": "Seattle Sneakers",
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Green Valley Toxoplasmosis",
                 "team1Abbr": "EA",
                 "team2Abbr": "SS",
                 "description": "Game 2, Cold League Division Series 1",
@@ -241,8 +241,8 @@
             {
                 "league": "Cold League",
                 "season": 11,
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Scottsdale Knuckeballers",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "TB",
                 "description": "Game 2, Cold League Division Series 2",
@@ -288,8 +288,8 @@
             {
                 "league": "Hot League",
                 "season": 11,
-                "team1Name": "Orlando Business Majors",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Prescott Universal Constants",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "ORL",
                 "team2Abbr": "DET",
                 "description": "Game 2, Hot League Division Series 1",
@@ -335,8 +335,8 @@
             {
                 "league": "Hot League",
                 "season": 11,
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Albuquerque Solarpunks",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Prescott Examiners",
                 "team1Abbr": "SAC",
                 "team2Abbr": "ABQ",
                 "description": "Game 2, Hot League Division Series 2",
@@ -384,8 +384,8 @@
             {
                 "league": "Cold League",
                 "season": 11,
-                "team1Name": "Seattle Sneakers",
-                "team2Name": "Elko Astronauts",
+                "team1Name": "Green Valley Toxoplasmosis",
+                "team2Name": "Bullhead City Surgeons",
                 "team1Abbr": "SS",
                 "team2Abbr": "EA",
                 "description": "Game 3, Cold League Division Series 1",
@@ -431,8 +431,8 @@
             {
                 "league": "Cold League",
                 "season": 11,
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Scottsdale Knuckeballers",
+                "team2Name": "Apache Junction Birdcallers",
                 "team1Abbr": "TB",
                 "team2Abbr": "LBFB",
                 "description": "Game 3, Cold League Division Series 2",
@@ -478,8 +478,8 @@
             {
                 "league": "Hot League",
                 "season": 11,
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Orlando Business Majors",
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "Prescott Universal Constants",
                 "team1Abbr": "DET",
                 "team2Abbr": "ORL",
                 "description": "Game 3, Hot League Division Series 1",
@@ -525,8 +525,8 @@
             {
                 "league": "Hot League",
                 "season": 11,
-                "team1Name": "Albuquerque Solarpunks",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Prescott Examiners",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "ABQ",
                 "team2Abbr": "SAC",
                 "description": "Game 3, Hot League Division Series 2",
@@ -574,8 +574,8 @@
             {
                 "league": "Cold League",
                 "season": 11,
-                "team1Name": "Seattle Sneakers",
-                "team2Name": "Elko Astronauts",
+                "team1Name": "Green Valley Toxoplasmosis",
+                "team2Name": "Bullhead City Surgeons",
                 "team1Abbr": "SS",
                 "team2Abbr": "EA",
                 "description": "Game 4, Cold League Division Series 1",
@@ -621,8 +621,8 @@
             {
                 "league": "Cold League",
                 "season": 11,
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Scottsdale Knuckeballers",
+                "team2Name": "Apache Junction Birdcallers",
                 "team1Abbr": "TB",
                 "team2Abbr": "LBFB",
                 "description": "Game 4, Cold League Division Series 2",
@@ -668,8 +668,8 @@
             {
                 "league": "Hot League",
                 "season": 11,
-                "team1Name": "Albuquerque Solarpunks",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Prescott Examiners",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "ABQ",
                 "team2Abbr": "SAC",
                 "description": "Game 4, Hot League Division Series 2",
@@ -717,8 +717,8 @@
             {
                 "league": "Cold League",
                 "season": 11,
-                "team1Name": "Elko Astronauts",
-                "team2Name": "Seattle Sneakers",
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Green Valley Toxoplasmosis",
                 "team1Abbr": "EA",
                 "team2Abbr": "SS",
                 "description": "Game 5, Cold League Division Series 1",
@@ -764,8 +764,8 @@
             {
                 "league": "Cold League",
                 "season": 11,
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Scottsdale Knuckeballers",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "TB",
                 "description": "Game 5, Cold League Division Series 2",
@@ -813,8 +813,8 @@
     "LCS": [
         [
             {
-                "team1Name": "Seattle Sneakers",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Green Valley Toxoplasmosis",
+                "team2Name": "Scottsdale Knuckeballers",
                 "team1Abbr": "SS",
                 "team2Abbr": "TB",
                 "league": "Cold League",
@@ -860,8 +860,8 @@
                 ]
             },
             {
-                "team1Name": "Orlando Business Majors",
-                "team2Name": "Albuquerque Solarpunks",
+                "team1Name": "Prescott Universal Constants",
+                "team2Name": "Prescott Examiners",
                 "team1Abbr": "ORL",
                 "team2Abbr": "ABQ",
                 "league": "Hot League",
@@ -909,8 +909,8 @@
         ],
         [
             {
-                "team1Name": "Seattle Sneakers",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Green Valley Toxoplasmosis",
+                "team2Name": "Scottsdale Knuckeballers",
                 "team1Abbr": "SS",
                 "team2Abbr": "TB",
                 "league": "Cold League",
@@ -956,8 +956,8 @@
                 ]
             },
             {
-                "team1Name": "Orlando Business Majors",
-                "team2Name": "Albuquerque Solarpunks",
+                "team1Name": "Prescott Universal Constants",
+                "team2Name": "Prescott Examiners",
                 "team1Abbr": "ORL",
                 "team2Abbr": "ABQ",
                 "league": "Hot League",
@@ -1005,8 +1005,8 @@
         ],
         [
             {
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Seattle Sneakers",
+                "team1Name": "Scottsdale Knuckeballers",
+                "team2Name": "Green Valley Toxoplasmosis",
                 "team1Abbr": "TB",
                 "team2Abbr": "SS",
                 "league": "Cold League",
@@ -1052,8 +1052,8 @@
                 ]
             },
             {
-                "team1Name": "Albuquerque Solarpunks",
-                "team2Name": "Orlando Business Majors",
+                "team1Name": "Prescott Examiners",
+                "team2Name": "Prescott Universal Constants",
                 "team1Abbr": "ABQ",
                 "team2Abbr": "ORL",
                 "league": "Hot League",
@@ -1101,8 +1101,8 @@
         ],
         [
             {
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Seattle Sneakers",
+                "team1Name": "Scottsdale Knuckeballers",
+                "team2Name": "Green Valley Toxoplasmosis",
                 "team1Abbr": "TB",
                 "team2Abbr": "SS",
                 "league": "Cold League",
@@ -1148,8 +1148,8 @@
                 ]
             },
             {
-                "team1Name": "Albuquerque Solarpunks",
-                "team2Name": "Orlando Business Majors",
+                "team1Name": "Prescott Examiners",
+                "team2Name": "Prescott Universal Constants",
                 "team1Abbr": "ABQ",
                 "team2Abbr": "ORL",
                 "league": "Hot League",
@@ -1197,8 +1197,8 @@
         ],
         [
             {
-                "team1Name": "Seattle Sneakers",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Green Valley Toxoplasmosis",
+                "team2Name": "Scottsdale Knuckeballers",
                 "team1Abbr": "SS",
                 "team2Abbr": "TB",
                 "league": "Cold League",
@@ -1244,8 +1244,8 @@
                 ]
             },
             {
-                "team1Name": "Orlando Business Majors",
-                "team2Name": "Albuquerque Solarpunks",
+                "team1Name": "Prescott Universal Constants",
+                "team2Name": "Prescott Examiners",
                 "team1Abbr": "ORL",
                 "team2Abbr": "ABQ",
                 "league": "Hot League",
@@ -1295,8 +1295,8 @@
     "HCS": [
         [
             {
-                "team1Name": "Albuquerque Solarpunks",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Prescott Examiners",
+                "team2Name": "Scottsdale Knuckeballers",
                 "team1Abbr": "ABQ",
                 "team2Abbr": "TB",
                 "description": "Game 1, Toroidal Cup",
@@ -1343,8 +1343,8 @@
         ],
         [
             {
-                "team1Name": "Albuquerque Solarpunks",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Prescott Examiners",
+                "team2Name": "Scottsdale Knuckeballers",
                 "team1Abbr": "ABQ",
                 "team2Abbr": "TB",
                 "description": "Game 2, Toroidal Cup",
@@ -1391,8 +1391,8 @@
         ],
         [
             {
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Albuquerque Solarpunks",
+                "team1Name": "Scottsdale Knuckeballers",
+                "team2Name": "Prescott Examiners",
                 "team1Abbr": "TB",
                 "team2Abbr": "ABQ",
                 "description": "Game 3, Toroidal Cup",
@@ -1439,8 +1439,8 @@
         ],
         [
             {
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Albuquerque Solarpunks",
+                "team1Name": "Scottsdale Knuckeballers",
+                "team2Name": "Prescott Examiners",
                 "team1Abbr": "TB",
                 "team2Abbr": "ABQ",
                 "description": "Game 4, Toroidal Cup",
@@ -1487,8 +1487,8 @@
         ],
         [
             {
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Albuquerque Solarpunks",
+                "team1Name": "Scottsdale Knuckeballers",
+                "team2Name": "Prescott Examiners",
                 "team1Abbr": "TB",
                 "team2Abbr": "ABQ",
                 "description": "Game 5, Toroidal Cup",
@@ -1535,8 +1535,8 @@
         ],
         [
             {
-                "team1Name": "Albuquerque Solarpunks",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Prescott Examiners",
+                "team2Name": "Scottsdale Knuckeballers",
                 "team1Abbr": "ABQ",
                 "team2Abbr": "TB",
                 "description": "Game 6, Toroidal Cup",
