@@ -4,8 +4,8 @@
             {
                 "league": "Cold League",
                 "season": 3,
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Scottsdale Knuckeballers",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "TB",
                 "team2Abbr": "SLC",
                 "description": "Game 1, Cold League Division Series 1",
@@ -51,8 +51,8 @@
             {
                 "league": "Cold League",
                 "season": 3,
-                "team1Name": "Elko Astronauts",
-                "team2Name": "Baltimore Texas",
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Mesa Insurrectionists",
                 "team1Abbr": "EA",
                 "team2Abbr": "BTX",
                 "description": "Game 1, Cold League Division Series 2",
@@ -98,8 +98,8 @@
             {
                 "league": "Hot League",
                 "season": 3,
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Gilbert Monotheists",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "MILF",
                 "team2Abbr": "SAC",
                 "description": "Game 1, Hot League Division Series 1",
@@ -145,8 +145,8 @@
             {
                 "league": "Hot League",
                 "season": 3,
-                "team1Name": "Delaware Corporate Shells",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "DECO",
                 "team2Abbr": "SGE",
                 "description": "Game 1, Hot League Division Series 2",
@@ -194,8 +194,8 @@
             {
                 "league": "Cold League",
                 "season": 3,
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Scottsdale Knuckeballers",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "TB",
                 "team2Abbr": "SLC",
                 "description": "Game 2, Cold League Division Series 1",
@@ -241,8 +241,8 @@
             {
                 "league": "Cold League",
                 "season": 3,
-                "team1Name": "Elko Astronauts",
-                "team2Name": "Baltimore Texas",
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Mesa Insurrectionists",
                 "team1Abbr": "EA",
                 "team2Abbr": "BTX",
                 "description": "Game 2, Cold League Division Series 2",
@@ -288,8 +288,8 @@
             {
                 "league": "Hot League",
                 "season": 3,
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Gilbert Monotheists",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "MILF",
                 "team2Abbr": "SAC",
                 "description": "Game 2, Hot League Division Series 1",
@@ -335,8 +335,8 @@
             {
                 "league": "Hot League",
                 "season": 3,
-                "team1Name": "Delaware Corporate Shells",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "DECO",
                 "team2Abbr": "SGE",
                 "description": "Game 2, Hot League Division Series 2",
@@ -384,8 +384,8 @@
             {
                 "league": "Cold League",
                 "season": 3,
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Scottsdale Knuckeballers",
                 "team1Abbr": "SLC",
                 "team2Abbr": "TB",
                 "description": "Game 3, Cold League Division Series 1",
@@ -431,8 +431,8 @@
             {
                 "league": "Cold League",
                 "season": 3,
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Elko Astronauts",
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Bullhead City Surgeons",
                 "team1Abbr": "BTX",
                 "team2Abbr": "EA",
                 "description": "Game 3, Cold League Division Series 2",
@@ -478,8 +478,8 @@
             {
                 "league": "Hot League",
                 "season": 3,
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Milwaukee Flamingos",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Gilbert Monotheists",
                 "team1Abbr": "SAC",
                 "team2Abbr": "MILF",
                 "description": "Game 3, Hot League Division Series 1",
@@ -525,8 +525,8 @@
             {
                 "league": "Hot League",
                 "season": 3,
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Delaware Corporate Shells",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Casa Grande Laptop Thieves",
                 "team1Abbr": "SGE",
                 "team2Abbr": "DECO",
                 "description": "Game 3, Hot League Division Series 2",
@@ -574,8 +574,8 @@
             {
                 "league": "Cold League",
                 "season": 3,
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Scottsdale Knuckeballers",
                 "team1Abbr": "SLC",
                 "team2Abbr": "TB",
                 "description": "Game 4, Cold League Division Series 1",
@@ -621,8 +621,8 @@
             {
                 "league": "Cold League",
                 "season": 3,
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Elko Astronauts",
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Bullhead City Surgeons",
                 "team1Abbr": "BTX",
                 "team2Abbr": "EA",
                 "description": "Game 4, Cold League Division Series 2",
@@ -668,8 +668,8 @@
             {
                 "league": "Hot League",
                 "season": 3,
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Milwaukee Flamingos",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Gilbert Monotheists",
                 "team1Abbr": "SAC",
                 "team2Abbr": "MILF",
                 "description": "Game 4, Hot League Division Series 1",
@@ -715,8 +715,8 @@
             {
                 "league": "Hot League",
                 "season": 3,
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Delaware Corporate Shells",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Casa Grande Laptop Thieves",
                 "team1Abbr": "SGE",
                 "team2Abbr": "DECO",
                 "description": "Game 4, Hot League Division Series 2",
@@ -764,8 +764,8 @@
             {
                 "league": "Cold League",
                 "season": 3,
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Scottsdale Knuckeballers",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "TB",
                 "team2Abbr": "SLC",
                 "description": "Game 5, Cold League Division Series 1",
@@ -811,8 +811,8 @@
             {
                 "league": "Cold League",
                 "season": 3,
-                "team1Name": "Elko Astronauts",
-                "team2Name": "Baltimore Texas",
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Mesa Insurrectionists",
                 "team1Abbr": "EA",
                 "team2Abbr": "BTX",
                 "description": "Game 5, Cold League Division Series 2",
@@ -860,8 +860,8 @@
     "LCS": [
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Elko Astronauts",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Bullhead City Surgeons",
                 "team1Abbr": "SLC",
                 "team2Abbr": "EA",
                 "league": "Cold League",
@@ -907,8 +907,8 @@
                 ]
             },
             {
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Delaware Corporate Shells",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Casa Grande Laptop Thieves",
                 "team1Abbr": "SAC",
                 "team2Abbr": "DECO",
                 "league": "Hot League",
@@ -956,8 +956,8 @@
         ],
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Elko Astronauts",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Bullhead City Surgeons",
                 "team1Abbr": "SLC",
                 "team2Abbr": "EA",
                 "league": "Cold League",
@@ -1003,8 +1003,8 @@
                 ]
             },
             {
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Delaware Corporate Shells",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Casa Grande Laptop Thieves",
                 "team1Abbr": "SAC",
                 "team2Abbr": "DECO",
                 "league": "Hot League",
@@ -1052,8 +1052,8 @@
         ],
         [
             {
-                "team1Name": "Elko Astronauts",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Bullhead City Surgeons",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "EA",
                 "team2Abbr": "SLC",
                 "league": "Cold League",
@@ -1099,8 +1099,8 @@
                 ]
             },
             {
-                "team1Name": "Delaware Corporate Shells",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "DECO",
                 "team2Abbr": "SAC",
                 "league": "Hot League",
@@ -1148,8 +1148,8 @@
         ],
         [
             {
-                "team1Name": "Delaware Corporate Shells",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "DECO",
                 "team2Abbr": "SAC",
                 "league": "Hot League",
@@ -1199,8 +1199,8 @@
     "HCS": [
         [
             {
-                "team1Name": "Delaware Corporate Shells",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "DECO",
                 "team2Abbr": "SLC",
                 "description": "Game 1, Toroidal Cup",
@@ -1247,8 +1247,8 @@
         ],
         [
             {
-                "team1Name": "Delaware Corporate Shells",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "DECO",
                 "team2Abbr": "SLC",
                 "description": "Game 2, Toroidal Cup",
@@ -1295,8 +1295,8 @@
         ],
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Delaware Corporate Shells",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Casa Grande Laptop Thieves",
                 "team1Abbr": "SLC",
                 "team2Abbr": "DECO",
                 "description": "Game 3, Toroidal Cup",
@@ -1343,8 +1343,8 @@
         ],
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Delaware Corporate Shells",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Casa Grande Laptop Thieves",
                 "team1Abbr": "SLC",
                 "team2Abbr": "DECO",
                 "description": "Game 4, Toroidal Cup",
@@ -1391,8 +1391,8 @@
         ],
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Delaware Corporate Shells",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Casa Grande Laptop Thieves",
                 "team1Abbr": "SLC",
                 "team2Abbr": "DECO",
                 "description": "Game 5, Toroidal Cup",
@@ -1439,8 +1439,8 @@
         ],
         [
             {
-                "team1Name": "Delaware Corporate Shells",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Casa Grande Laptop Thieves",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "DECO",
                 "team2Abbr": "SLC",
                 "description": "Game 6, Toroidal Cup",

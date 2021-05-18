@@ -4,8 +4,8 @@
             {
                 "league": "Cold League",
                 "season": 5,
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Yuma Cholera",
                 "team1Abbr": "BTX",
                 "team2Abbr": "FWPT",
                 "description": "Game 1, Cold League Division Series 1",
@@ -51,8 +51,8 @@
             {
                 "league": "Cold League",
                 "season": 5,
-                "team1Name": "Phoenix Freshrolls",
-                "team2Name": "San Diego Balloon Animals",
+                "team1Name": "Buckeye Jackets",
+                "team2Name": "Lake Havasu City Counter-Spies",
                 "team1Abbr": "FF",
                 "team2Abbr": "SDBA",
                 "description": "Game 1, Cold League Division Series 2",
@@ -98,8 +98,8 @@
             {
                 "league": "Hot League",
                 "season": 5,
-                "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "SGE",
                 "description": "Game 1, Hot League Division Series 1",
@@ -145,8 +145,8 @@
             {
                 "league": "Hot League",
                 "season": 5,
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "DET",
                 "team2Abbr": "SAC",
                 "description": "Game 1, Hot League Division Series 2",
@@ -194,8 +194,8 @@
             {
                 "league": "Cold League",
                 "season": 5,
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Yuma Cholera",
                 "team1Abbr": "BTX",
                 "team2Abbr": "FWPT",
                 "description": "Game 2, Cold League Division Series 1",
@@ -241,8 +241,8 @@
             {
                 "league": "Cold League",
                 "season": 5,
-                "team1Name": "Phoenix Freshrolls",
-                "team2Name": "San Diego Balloon Animals",
+                "team1Name": "Buckeye Jackets",
+                "team2Name": "Lake Havasu City Counter-Spies",
                 "team1Abbr": "FF",
                 "team2Abbr": "SDBA",
                 "description": "Game 2, Cold League Division Series 2",
@@ -288,8 +288,8 @@
             {
                 "league": "Hot League",
                 "season": 5,
-                "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "SGE",
                 "description": "Game 2, Hot League Division Series 1",
@@ -335,8 +335,8 @@
             {
                 "league": "Hot League",
                 "season": 5,
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "Sun City Couchfeet",
                 "team1Abbr": "DET",
                 "team2Abbr": "SAC",
                 "description": "Game 2, Hot League Division Series 2",
@@ -384,8 +384,8 @@
             {
                 "league": "Cold League",
                 "season": 5,
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "Baltimore Texas",
+                "team1Name": "Yuma Cholera",
+                "team2Name": "Mesa Insurrectionists",
                 "team1Abbr": "FWPT",
                 "team2Abbr": "BTX",
                 "description": "Game 3, Cold League Division Series 1",
@@ -431,8 +431,8 @@
             {
                 "league": "Cold League",
                 "season": 5,
-                "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Phoenix Freshrolls",
+                "team1Name": "Lake Havasu City Counter-Spies",
+                "team2Name": "Buckeye Jackets",
                 "team1Abbr": "SDBA",
                 "team2Abbr": "FF",
                 "description": "Game 3, Cold League Division Series 2",
@@ -478,8 +478,8 @@
             {
                 "league": "Hot League",
                 "season": 5,
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "San Francisco Boat Shoes",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Casas Adobes Feral Pigs",
                 "team1Abbr": "SGE",
                 "team2Abbr": "SFBS",
                 "description": "Game 3, Hot League Division Series 1",
@@ -525,8 +525,8 @@
             {
                 "league": "Hot League",
                 "season": 5,
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "SAC",
                 "team2Abbr": "DET",
                 "description": "Game 3, Hot League Division Series 2",
@@ -574,8 +574,8 @@
             {
                 "league": "Hot League",
                 "season": 5,
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "San Francisco Boat Shoes",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Casas Adobes Feral Pigs",
                 "team1Abbr": "SGE",
                 "team2Abbr": "SFBS",
                 "description": "Game 4, Hot League Division Series 1",
@@ -621,8 +621,8 @@
             {
                 "league": "Hot League",
                 "season": 5,
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Sun City Couchfeet",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "SAC",
                 "team2Abbr": "DET",
                 "description": "Game 4, Hot League Division Series 2",
@@ -670,8 +670,8 @@
     "LCS": [
         [
             {
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Phoenix Freshrolls",
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Buckeye Jackets",
                 "team1Abbr": "BTX",
                 "team2Abbr": "FF",
                 "league": "Cold League",
@@ -717,8 +717,8 @@
                 ]
             },
             {
-                "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "DET",
                 "league": "Hot League",
@@ -766,8 +766,8 @@
         ],
         [
             {
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Phoenix Freshrolls",
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Buckeye Jackets",
                 "team1Abbr": "BTX",
                 "team2Abbr": "FF",
                 "league": "Cold League",
@@ -813,8 +813,8 @@
                 ]
             },
             {
-                "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "DET",
                 "league": "Hot League",
@@ -862,8 +862,8 @@
         ],
         [
             {
-                "team1Name": "Phoenix Freshrolls",
-                "team2Name": "Baltimore Texas",
+                "team1Name": "Buckeye Jackets",
+                "team2Name": "Mesa Insurrectionists",
                 "team1Abbr": "FF",
                 "team2Abbr": "BTX",
                 "league": "Cold League",
@@ -909,8 +909,8 @@
                 ]
             },
             {
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "San Francisco Boat Shoes",
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "Casas Adobes Feral Pigs",
                 "team1Abbr": "DET",
                 "team2Abbr": "SFBS",
                 "league": "Hot League",
@@ -958,8 +958,8 @@
         ],
         [
             {
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "San Francisco Boat Shoes",
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "Casas Adobes Feral Pigs",
                 "team1Abbr": "DET",
                 "team2Abbr": "SFBS",
                 "league": "Hot League",
@@ -1007,8 +1007,8 @@
         ],
         [
             {
-                "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "DET",
                 "league": "Hot League",
@@ -1058,8 +1058,8 @@
     "HCS": [
         [
             {
-                "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Phoenix Freshrolls",
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Buckeye Jackets",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "FF",
                 "description": "Game 1, Toroidal Cup",
@@ -1106,8 +1106,8 @@
         ],
         [
             {
-                "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Phoenix Freshrolls",
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Buckeye Jackets",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "FF",
                 "description": "Game 2, Toroidal Cup",
@@ -1154,8 +1154,8 @@
         ],
         [
             {
-                "team1Name": "Phoenix Freshrolls",
-                "team2Name": "San Francisco Boat Shoes",
+                "team1Name": "Buckeye Jackets",
+                "team2Name": "Casas Adobes Feral Pigs",
                 "team1Abbr": "FF",
                 "team2Abbr": "SFBS",
                 "description": "Game 3, Toroidal Cup",
@@ -1202,8 +1202,8 @@
         ],
         [
             {
-                "team1Name": "Phoenix Freshrolls",
-                "team2Name": "San Francisco Boat Shoes",
+                "team1Name": "Buckeye Jackets",
+                "team2Name": "Casas Adobes Feral Pigs",
                 "team1Abbr": "FF",
                 "team2Abbr": "SFBS",
                 "description": "Game 4, Toroidal Cup",
@@ -1250,8 +1250,8 @@
         ],
         [
             {
-                "team1Name": "Phoenix Freshrolls",
-                "team2Name": "San Francisco Boat Shoes",
+                "team1Name": "Buckeye Jackets",
+                "team2Name": "Casas Adobes Feral Pigs",
                 "team1Abbr": "FF",
                 "team2Abbr": "SFBS",
                 "description": "Game 5, Toroidal Cup",
@@ -1298,8 +1298,8 @@
         ],
         [
             {
-                "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Phoenix Freshrolls",
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Buckeye Jackets",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "FF",
                 "description": "Game 6, Toroidal Cup",
@@ -1346,8 +1346,8 @@
         ],
         [
             {
-                "team1Name": "San Francisco Boat Shoes",
-                "team2Name": "Phoenix Freshrolls",
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Buckeye Jackets",
                 "team1Abbr": "SFBS",
                 "team2Abbr": "FF",
                 "description": "Game 7, Toroidal Cup",

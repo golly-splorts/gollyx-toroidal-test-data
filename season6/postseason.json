@@ -4,8 +4,8 @@
             {
                 "league": "Cold League",
                 "season": 6,
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Yuma Cholera",
+                "team2Name": "Apache Junction Birdcallers",
                 "team1Abbr": "FWPT",
                 "team2Abbr": "LBFB",
                 "description": "Game 1, Cold League Division Series 1",
@@ -51,8 +51,8 @@
             {
                 "league": "Cold League",
                 "season": 6,
-                "team1Name": "Phoenix Freshrolls",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Buckeye Jackets",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "FF",
                 "team2Abbr": "OSHA",
                 "description": "Game 1, Cold League Division Series 2",
@@ -98,8 +98,8 @@
             {
                 "league": "Hot League",
                 "season": 6,
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "BB",
                 "team2Abbr": "DET",
                 "description": "Game 1, Hot League Division Series 1",
@@ -145,8 +145,8 @@
             {
                 "league": "Hot League",
                 "season": 6,
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Gilbert Monotheists",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "MILF",
                 "team2Abbr": "SGE",
                 "description": "Game 1, Hot League Division Series 2",
@@ -194,8 +194,8 @@
             {
                 "league": "Cold League",
                 "season": 6,
-                "team1Name": "Ft. Worth Piano Tuners",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Yuma Cholera",
+                "team2Name": "Apache Junction Birdcallers",
                 "team1Abbr": "FWPT",
                 "team2Abbr": "LBFB",
                 "description": "Game 2, Cold League Division Series 1",
@@ -241,8 +241,8 @@
             {
                 "league": "Cold League",
                 "season": 6,
-                "team1Name": "Phoenix Freshrolls",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Buckeye Jackets",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "FF",
                 "team2Abbr": "OSHA",
                 "description": "Game 2, Cold League Division Series 2",
@@ -288,8 +288,8 @@
             {
                 "league": "Hot League",
                 "season": 6,
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Peoria Gastroenterologists",
                 "team1Abbr": "BB",
                 "team2Abbr": "DET",
                 "description": "Game 2, Hot League Division Series 1",
@@ -335,8 +335,8 @@
             {
                 "league": "Hot League",
                 "season": 6,
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Gilbert Monotheists",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "MILF",
                 "team2Abbr": "SGE",
                 "description": "Game 2, Hot League Division Series 2",
@@ -384,8 +384,8 @@
             {
                 "league": "Cold League",
                 "season": 6,
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Yuma Cholera",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "FWPT",
                 "description": "Game 3, Cold League Division Series 1",
@@ -431,8 +431,8 @@
             {
                 "league": "Cold League",
                 "season": 6,
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Phoenix Freshrolls",
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "Buckeye Jackets",
                 "team1Abbr": "OSHA",
                 "team2Abbr": "FF",
                 "description": "Game 3, Cold League Division Series 2",
@@ -478,8 +478,8 @@
             {
                 "league": "Hot League",
                 "season": 6,
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "DET",
                 "team2Abbr": "BB",
                 "description": "Game 3, Hot League Division Series 1",
@@ -525,8 +525,8 @@
             {
                 "league": "Hot League",
                 "season": 6,
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Milwaukee Flamingos",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Gilbert Monotheists",
                 "team1Abbr": "SGE",
                 "team2Abbr": "MILF",
                 "description": "Game 3, Hot League Division Series 2",
@@ -574,8 +574,8 @@
             {
                 "league": "Cold League",
                 "season": 6,
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Ft. Worth Piano Tuners",
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Yuma Cholera",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "FWPT",
                 "description": "Game 4, Cold League Division Series 1",
@@ -621,8 +621,8 @@
             {
                 "league": "Cold League",
                 "season": 6,
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Phoenix Freshrolls",
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "Buckeye Jackets",
                 "team1Abbr": "OSHA",
                 "team2Abbr": "FF",
                 "description": "Game 4, Cold League Division Series 2",
@@ -668,8 +668,8 @@
             {
                 "league": "Hot League",
                 "season": 6,
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "DET",
                 "team2Abbr": "BB",
                 "description": "Game 4, Hot League Division Series 1",
@@ -717,8 +717,8 @@
     "LCS": [
         [
             {
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "OSHA",
                 "league": "Cold League",
@@ -764,8 +764,8 @@
                 ]
             },
             {
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "BB",
                 "team2Abbr": "SGE",
                 "league": "Hot League",
@@ -813,8 +813,8 @@
         ],
         [
             {
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "OSHA",
                 "league": "Cold League",
@@ -860,8 +860,8 @@
                 ]
             },
             {
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "BB",
                 "team2Abbr": "SGE",
                 "league": "Hot League",
@@ -909,8 +909,8 @@
         ],
         [
             {
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "Apache Junction Birdcallers",
                 "team1Abbr": "OSHA",
                 "team2Abbr": "LBFB",
                 "league": "Cold League",
@@ -956,8 +956,8 @@
                 ]
             },
             {
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "SGE",
                 "team2Abbr": "BB",
                 "league": "Hot League",
@@ -1005,8 +1005,8 @@
         ],
         [
             {
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "Apache Junction Birdcallers",
                 "team1Abbr": "OSHA",
                 "team2Abbr": "LBFB",
                 "league": "Cold League",
@@ -1052,8 +1052,8 @@
                 ]
             },
             {
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "SGE",
                 "team2Abbr": "BB",
                 "league": "Hot League",
@@ -1101,8 +1101,8 @@
         ],
         [
             {
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "OSHA",
                 "league": "Cold League",
@@ -1148,8 +1148,8 @@
                 ]
             },
             {
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "BB",
                 "team2Abbr": "SGE",
                 "league": "Hot League",
@@ -1199,8 +1199,8 @@
     "HCS": [
         [
             {
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "BB",
                 "team2Abbr": "OSHA",
                 "description": "Game 1, Toroidal Cup",
@@ -1247,8 +1247,8 @@
         ],
         [
             {
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "BB",
                 "team2Abbr": "OSHA",
                 "description": "Game 2, Toroidal Cup",
@@ -1295,8 +1295,8 @@
         ],
         [
             {
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "OSHA",
                 "team2Abbr": "BB",
                 "description": "Game 3, Toroidal Cup",
@@ -1343,8 +1343,8 @@
         ],
         [
             {
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "OSHA",
                 "team2Abbr": "BB",
                 "description": "Game 4, Toroidal Cup",
@@ -1391,8 +1391,8 @@
         ],
         [
             {
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "OSHA",
                 "team2Abbr": "BB",
                 "description": "Game 5, Toroidal Cup",
@@ -1439,8 +1439,8 @@
         ],
         [
             {
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "BB",
                 "team2Abbr": "OSHA",
                 "description": "Game 6, Toroidal Cup",
@@ -1487,8 +1487,8 @@
         ],
         [
             {
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "BB",
                 "team2Abbr": "OSHA",
                 "description": "Game 7, Toroidal Cup",
