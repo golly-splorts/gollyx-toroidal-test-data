@@ -4,8 +4,8 @@
             {
                 "league": "Cold League",
                 "season": 10,
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Apache Junction Birdcallers",
                 "team1Abbr": "SLC",
                 "team2Abbr": "LBFB",
                 "description": "Game 1, Cold League Division Series 1",
@@ -51,8 +51,8 @@
             {
                 "league": "Cold League",
                 "season": 10,
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Baltimore Texas",
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "Mesa Insurrectionists",
                 "team1Abbr": "OSHA",
                 "team2Abbr": "BTX",
                 "description": "Game 1, Cold League Division Series 2",
@@ -98,8 +98,8 @@
             {
                 "league": "Hot League",
                 "season": 10,
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Gilbert Monotheists",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "MILF",
                 "team2Abbr": "SGE",
                 "description": "Game 1, Hot League Division Series 1",
@@ -145,8 +145,8 @@
             {
                 "league": "Hot League",
                 "season": 10,
-                "team1Name": "Alewife Arsonists",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Tempe Fisticuffs",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "AA",
                 "team2Abbr": "BB",
                 "description": "Game 1, Hot League Division Series 2",
@@ -194,8 +194,8 @@
             {
                 "league": "Cold League",
                 "season": 10,
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Apache Junction Birdcallers",
                 "team1Abbr": "SLC",
                 "team2Abbr": "LBFB",
                 "description": "Game 2, Cold League Division Series 1",
@@ -241,8 +241,8 @@
             {
                 "league": "Cold League",
                 "season": 10,
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Baltimore Texas",
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "Mesa Insurrectionists",
                 "team1Abbr": "OSHA",
                 "team2Abbr": "BTX",
                 "description": "Game 2, Cold League Division Series 2",
@@ -288,8 +288,8 @@
             {
                 "league": "Hot League",
                 "season": 10,
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Gilbert Monotheists",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "MILF",
                 "team2Abbr": "SGE",
                 "description": "Game 2, Hot League Division Series 1",
@@ -335,8 +335,8 @@
             {
                 "league": "Hot League",
                 "season": 10,
-                "team1Name": "Alewife Arsonists",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Tempe Fisticuffs",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "AA",
                 "team2Abbr": "BB",
                 "description": "Game 2, Hot League Division Series 2",
@@ -384,8 +384,8 @@
             {
                 "league": "Cold League",
                 "season": 10,
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "LBFB",
                 "team2Abbr": "SLC",
                 "description": "Game 3, Cold League Division Series 1",
@@ -431,8 +431,8 @@
             {
                 "league": "Cold League",
                 "season": 10,
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "BTX",
                 "team2Abbr": "OSHA",
                 "description": "Game 3, Cold League Division Series 2",
@@ -478,8 +478,8 @@
             {
                 "league": "Hot League",
                 "season": 10,
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Milwaukee Flamingos",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Gilbert Monotheists",
                 "team1Abbr": "SGE",
                 "team2Abbr": "MILF",
                 "description": "Game 3, Hot League Division Series 1",
@@ -525,8 +525,8 @@
             {
                 "league": "Hot League",
                 "season": 10,
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Alewife Arsonists",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Tempe Fisticuffs",
                 "team1Abbr": "BB",
                 "team2Abbr": "AA",
                 "description": "Game 3, Hot League Division Series 2",
@@ -574,8 +574,8 @@
             {
                 "league": "Cold League",
                 "season": 10,
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Phoenix Knickerboxers",
                 "team1Abbr": "BTX",
                 "team2Abbr": "OSHA",
                 "description": "Game 4, Cold League Division Series 2",
@@ -621,8 +621,8 @@
             {
                 "league": "Hot League",
                 "season": 10,
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Alewife Arsonists",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Tempe Fisticuffs",
                 "team1Abbr": "BB",
                 "team2Abbr": "AA",
                 "description": "Game 4, Hot League Division Series 2",
@@ -670,8 +670,8 @@
     "LCS": [
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Baltimore Texas",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Mesa Insurrectionists",
                 "team1Abbr": "SLC",
                 "team2Abbr": "BTX",
                 "league": "Cold League",
@@ -717,8 +717,8 @@
                 ]
             },
             {
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "SGE",
                 "team2Abbr": "BB",
                 "league": "Hot League",
@@ -766,8 +766,8 @@
         ],
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Baltimore Texas",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Mesa Insurrectionists",
                 "team1Abbr": "SLC",
                 "team2Abbr": "BTX",
                 "league": "Cold League",
@@ -813,8 +813,8 @@
                 ]
             },
             {
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Boylston Boogers",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "San Luis Oscillators",
                 "team1Abbr": "SGE",
                 "team2Abbr": "BB",
                 "league": "Hot League",
@@ -862,8 +862,8 @@
         ],
         [
             {
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "BTX",
                 "team2Abbr": "SLC",
                 "league": "Cold League",
@@ -909,8 +909,8 @@
                 ]
             },
             {
-                "team1Name": "Boylston Boogers",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "San Luis Oscillators",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "BB",
                 "team2Abbr": "SGE",
                 "league": "Hot League",
@@ -958,8 +958,8 @@
         ],
         [
             {
-                "team1Name": "Baltimore Texas",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Mesa Insurrectionists",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "BTX",
                 "team2Abbr": "SLC",
                 "league": "Cold League",
@@ -1009,8 +1009,8 @@
     "HCS": [
         [
             {
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "SGE",
                 "team2Abbr": "SLC",
                 "description": "Game 1, Toroidal Cup",
@@ -1057,8 +1057,8 @@
         ],
         [
             {
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "SGE",
                 "team2Abbr": "SLC",
                 "description": "Game 2, Toroidal Cup",
@@ -1105,8 +1105,8 @@
         ],
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "SLC",
                 "team2Abbr": "SGE",
                 "description": "Game 3, Toroidal Cup",
@@ -1153,8 +1153,8 @@
         ],
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "SLC",
                 "team2Abbr": "SGE",
                 "description": "Game 4, Toroidal Cup",
@@ -1201,8 +1201,8 @@
         ],
         [
             {
-                "team1Name": "Salt Lake Turbulence",
-                "team2Name": "Sugar Grove Eavesdroppers",
+                "team1Name": "Chandler Inspectors",
+                "team2Name": "Goodyear Gearheads",
                 "team1Abbr": "SLC",
                 "team2Abbr": "SGE",
                 "description": "Game 5, Toroidal Cup",
@@ -1249,8 +1249,8 @@
         ],
         [
             {
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "SGE",
                 "team2Abbr": "SLC",
                 "description": "Game 6, Toroidal Cup",
@@ -1297,8 +1297,8 @@
         ],
         [
             {
-                "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "Salt Lake Turbulence",
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Chandler Inspectors",
                 "team1Abbr": "SGE",
                 "team2Abbr": "SLC",
                 "description": "Game 7, Toroidal Cup",

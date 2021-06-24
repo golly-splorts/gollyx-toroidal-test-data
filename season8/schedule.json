@@ -1,9 +1,9 @@
 [
     [
         {
-            "team1Name": "San Diego Balloon Animals",
+            "team1Name": "Lake Havasu City Counter-Spies",
             "team1Abbr": "SDBA",
-            "team2Name": "Tucson Butchers",
+            "team2Name": "Scottsdale Knuckeballers",
             "team2Abbr": "TB",
             "patternName": "donutmath",
             "season": 8,
@@ -15,9 +15,9 @@
             "team2Color": "#BB0000"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
+            "team1Name": "Phoenix Knickerboxers",
             "team1Abbr": "OSHA",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Buckeye Jackets",
             "team2Abbr": "FF",
             "patternName": "crabdonuts",
             "season": 8,
@@ -29,9 +29,9 @@
             "team2Color": "#b0b0b0"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
+            "team1Name": "Apache Junction Birdcallers",
             "team1Abbr": "LBFB",
-            "team2Name": "Salt Lake Turbulence",
+            "team2Name": "Chandler Inspectors",
             "team2Abbr": "SLC",
             "patternName": "donutcore",
             "season": 8,
@@ -43,9 +43,9 @@
             "team2Color": "#00cc44"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Yuma Cholera",
             "team1Abbr": "FWPT",
-            "team2Name": "Elko Astronauts",
+            "team2Name": "Bullhead City Surgeons",
             "team2Abbr": "EA",
             "patternName": "randomsegment",
             "season": 8,
@@ -57,9 +57,9 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Seattle Sneakers",
+            "team1Name": "Green Valley Toxoplasmosis",
             "team1Abbr": "SS",
-            "team2Name": "Baltimore Texas",
+            "team2Name": "Mesa Insurrectionists",
             "team2Abbr": "BTX",
             "patternName": "donutmultums",
             "season": 8,
@@ -71,9 +71,9 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
+            "team1Name": "Goodyear Gearheads",
             "team1Abbr": "SGE",
-            "team2Name": "Orlando Business Majors",
+            "team2Name": "Prescott Universal Constants",
             "team2Abbr": "ORL",
             "patternName": "donutrandompartition",
             "season": 8,
@@ -85,9 +85,9 @@
             "team2Color": "#0dab76"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
+            "team1Name": "Casas Adobes Feral Pigs",
             "team1Abbr": "SFBS",
-            "team2Name": "Alewife Arsonists",
+            "team2Name": "Tempe Fisticuffs",
             "team2Abbr": "AA",
             "patternName": "porchlights",
             "season": 8,
@@ -99,9 +99,9 @@
             "team2Color": "#ff1717"
         },
         {
-            "team1Name": "Boylston Boogers",
+            "team1Name": "San Luis Oscillators",
             "team1Abbr": "BB",
-            "team2Name": "Albuquerque Solarpunks",
+            "team2Name": "Prescott Examiners",
             "team2Abbr": "ABQ",
             "patternName": "donutmath",
             "season": 8,
@@ -113,9 +113,9 @@
             "team2Color": "#d41199"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
+            "team1Name": "Gilbert Monotheists",
             "team1Abbr": "MILF",
-            "team2Name": "Delaware Corporate Shells",
+            "team2Name": "Casa Grande Laptop Thieves",
             "team2Abbr": "DECO",
             "patternName": "donutmath",
             "season": 8,
@@ -127,9 +127,9 @@
             "team2Color": "#a0e7e8"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
+            "team1Name": "Sun City Couchfeet",
             "team1Abbr": "SAC",
-            "team2Name": "Detroit Grape Chews",
+            "team2Name": "Peoria Gastroenterologists",
             "team2Abbr": "DET",
             "patternName": "bigsegment",
             "season": 8,
@@ -143,9 +143,9 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
+            "team1Name": "Phoenix Knickerboxers",
             "team1Abbr": "OSHA",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Yuma Cholera",
             "team2Abbr": "FWPT",
             "patternName": "bigsegment",
             "season": 8,
@@ -157,9 +157,9 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Salt Lake Turbulence",
+            "team1Name": "Chandler Inspectors",
             "team1Abbr": "SLC",
-            "team2Name": "Elko Astronauts",
+            "team2Name": "Bullhead City Surgeons",
             "team2Abbr": "EA",
             "patternName": "donutrandom",
             "season": 8,
@@ -171,9 +171,9 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
+            "team1Name": "Lake Havasu City Counter-Spies",
             "team1Abbr": "SDBA",
-            "team2Name": "Tucson Butchers",
+            "team2Name": "Scottsdale Knuckeballers",
             "team2Abbr": "TB",
             "patternName": "randomsegment",
             "season": 8,
@@ -185,9 +185,9 @@
             "team2Color": "#BB0000"
         },
         {
-            "team1Name": "Baltimore Texas",
+            "team1Name": "Mesa Insurrectionists",
             "team1Abbr": "BTX",
-            "team2Name": "Seattle Sneakers",
+            "team2Name": "Green Valley Toxoplasmosis",
             "team2Abbr": "SS",
             "patternName": "randys",
             "season": 8,
@@ -199,9 +199,9 @@
             "team2Color": "#e86215"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
+            "team1Name": "Apache Junction Birdcallers",
             "team1Abbr": "LBFB",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Buckeye Jackets",
             "team2Abbr": "FF",
             "patternName": "quadjustyna",
             "season": 8,
@@ -213,9 +213,9 @@
             "team2Color": "#b0b0b0"
         },
         {
-            "team1Name": "Albuquerque Solarpunks",
+            "team1Name": "Prescott Examiners",
             "team1Abbr": "ABQ",
-            "team2Name": "Delaware Corporate Shells",
+            "team2Name": "Casa Grande Laptop Thieves",
             "team2Abbr": "DECO",
             "patternName": "quadjustyna",
             "season": 8,
@@ -227,9 +227,9 @@
             "team2Color": "#a0e7e8"
         },
         {
-            "team1Name": "Orlando Business Majors",
+            "team1Name": "Prescott Universal Constants",
             "team1Abbr": "ORL",
-            "team2Name": "Milwaukee Flamingos",
+            "team2Name": "Gilbert Monotheists",
             "team2Abbr": "MILF",
             "patternName": "donutcore",
             "season": 8,
@@ -241,9 +241,9 @@
             "team2Color": "#ff66cc"
         },
         {
-            "team1Name": "Alewife Arsonists",
+            "team1Name": "Tempe Fisticuffs",
             "team1Abbr": "AA",
-            "team2Name": "Sugar Grove Eavesdroppers",
+            "team2Name": "Goodyear Gearheads",
             "team2Abbr": "SGE",
             "patternName": "donuttimebomb",
             "season": 8,
@@ -255,9 +255,9 @@
             "team2Color": "#fefe67"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
+            "team1Name": "Casas Adobes Feral Pigs",
             "team1Abbr": "SFBS",
-            "team2Name": "Boylston Boogers",
+            "team2Name": "San Luis Oscillators",
             "team2Abbr": "BB",
             "patternName": "donutcore",
             "season": 8,
@@ -269,9 +269,9 @@
             "team2Color": "#697a21"
         },
         {
-            "team1Name": "Detroit Grape Chews",
+            "team1Name": "Peoria Gastroenterologists",
             "team1Abbr": "DET",
-            "team2Name": "Sacramento Boot Lickers",
+            "team2Name": "Sun City Couchfeet",
             "team2Abbr": "SAC",
             "patternName": "crabdonuts",
             "season": 8,
@@ -285,9 +285,9 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
+            "team1Name": "Green Valley Toxoplasmosis",
             "team1Abbr": "SS",
-            "team2Name": "Baltimore Texas",
+            "team2Name": "Mesa Insurrectionists",
             "team2Abbr": "BTX",
             "patternName": "quadjustyna",
             "season": 8,
@@ -299,9 +299,9 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Elko Astronauts",
+            "team1Name": "Bullhead City Surgeons",
             "team1Abbr": "EA",
-            "team2Name": "Salt Lake Turbulence",
+            "team2Name": "Chandler Inspectors",
             "team2Abbr": "SLC",
             "patternName": "quadjustyna",
             "season": 8,
@@ -313,9 +313,9 @@
             "team2Color": "#00cc44"
         },
         {
-            "team1Name": "Tucson Butchers",
+            "team1Name": "Scottsdale Knuckeballers",
             "team1Abbr": "TB",
-            "team2Name": "Long Beach Flightless Birds",
+            "team2Name": "Apache Junction Birdcallers",
             "team2Abbr": "LBFB",
             "patternName": "randomsegment",
             "season": 8,
@@ -327,9 +327,9 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
+            "team1Name": "Phoenix Knickerboxers",
             "team1Abbr": "OSHA",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Buckeye Jackets",
             "team2Abbr": "FF",
             "patternName": "donutrandompartition",
             "season": 8,
@@ -341,9 +341,9 @@
             "team2Color": "#b0b0b0"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
+            "team1Name": "Lake Havasu City Counter-Spies",
             "team1Abbr": "SDBA",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Yuma Cholera",
             "team2Abbr": "FWPT",
             "patternName": "donutrandompartition",
             "season": 8,
@@ -355,9 +355,9 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Orlando Business Majors",
+            "team1Name": "Prescott Universal Constants",
             "team1Abbr": "ORL",
-            "team2Name": "Sugar Grove Eavesdroppers",
+            "team2Name": "Goodyear Gearheads",
             "team2Abbr": "SGE",
             "patternName": "donuttimebomb",
             "season": 8,
@@ -369,9 +369,9 @@
             "team2Color": "#fefe67"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
+            "team1Name": "Casa Grande Laptop Thieves",
             "team1Abbr": "DECO",
-            "team2Name": "Milwaukee Flamingos",
+            "team2Name": "Gilbert Monotheists",
             "team2Abbr": "MILF",
             "patternName": "quadjustyna",
             "season": 8,
@@ -383,9 +383,9 @@
             "team2Color": "#ff66cc"
         },
         {
-            "team1Name": "Albuquerque Solarpunks",
+            "team1Name": "Prescott Examiners",
             "team1Abbr": "ABQ",
-            "team2Name": "San Francisco Boat Shoes",
+            "team2Name": "Casas Adobes Feral Pigs",
             "team2Abbr": "SFBS",
             "patternName": "randomsegment",
             "season": 8,
@@ -397,9 +397,9 @@
             "team2Color": "#e7d7c1"
         },
         {
-            "team1Name": "Boylston Boogers",
+            "team1Name": "San Luis Oscillators",
             "team1Abbr": "BB",
-            "team2Name": "Detroit Grape Chews",
+            "team2Name": "Peoria Gastroenterologists",
             "team2Abbr": "DET",
             "patternName": "donutcore",
             "season": 8,
@@ -411,9 +411,9 @@
             "team2Color": "#9963ab"
         },
         {
-            "team1Name": "Alewife Arsonists",
+            "team1Name": "Tempe Fisticuffs",
             "team1Abbr": "AA",
-            "team2Name": "Sacramento Boot Lickers",
+            "team2Name": "Sun City Couchfeet",
             "team2Abbr": "SAC",
             "patternName": "donutrandompartition",
             "season": 8,
@@ -427,9 +427,9 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
+            "team1Name": "Mesa Insurrectionists",
             "team1Abbr": "BTX",
-            "team2Name": "Elko Astronauts",
+            "team2Name": "Bullhead City Surgeons",
             "team2Abbr": "EA",
             "patternName": "porchlights",
             "season": 8,
@@ -441,9 +441,9 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Tucson Butchers",
+            "team1Name": "Scottsdale Knuckeballers",
             "team1Abbr": "TB",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Yuma Cholera",
             "team2Abbr": "FWPT",
             "patternName": "randys",
             "season": 8,
@@ -455,9 +455,9 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Salt Lake Turbulence",
+            "team1Name": "Chandler Inspectors",
             "team1Abbr": "SLC",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Buckeye Jackets",
             "team2Abbr": "FF",
             "patternName": "randomsegment",
             "season": 8,
@@ -469,9 +469,9 @@
             "team2Color": "#b0b0b0"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
+            "team1Name": "Lake Havasu City Counter-Spies",
             "team1Abbr": "SDBA",
-            "team2Name": "Jersey OSHA Violations",
+            "team2Name": "Phoenix Knickerboxers",
             "team2Abbr": "OSHA",
             "patternName": "quadjustyna",
             "season": 8,
@@ -483,9 +483,9 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Seattle Sneakers",
+            "team1Name": "Green Valley Toxoplasmosis",
             "team1Abbr": "SS",
-            "team2Name": "Long Beach Flightless Birds",
+            "team2Name": "Apache Junction Birdcallers",
             "team2Abbr": "LBFB",
             "patternName": "donuttimebomb",
             "season": 8,
@@ -497,9 +497,9 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
+            "team1Name": "Goodyear Gearheads",
             "team1Abbr": "SGE",
-            "team2Name": "Sacramento Boot Lickers",
+            "team2Name": "Sun City Couchfeet",
             "team2Abbr": "SAC",
             "patternName": "doublegaussian",
             "season": 8,
@@ -511,9 +511,9 @@
             "team2Color": "#ffb627"
         },
         {
-            "team1Name": "Albuquerque Solarpunks",
+            "team1Name": "Prescott Examiners",
             "team1Abbr": "ABQ",
-            "team2Name": "Delaware Corporate Shells",
+            "team2Name": "Casa Grande Laptop Thieves",
             "team2Abbr": "DECO",
             "patternName": "randomsegment",
             "season": 8,
@@ -525,9 +525,9 @@
             "team2Color": "#a0e7e8"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
+            "team1Name": "Casas Adobes Feral Pigs",
             "team1Abbr": "SFBS",
-            "team2Name": "Boylston Boogers",
+            "team2Name": "San Luis Oscillators",
             "team2Abbr": "BB",
             "patternName": "donutmath",
             "season": 8,
@@ -539,9 +539,9 @@
             "team2Color": "#697a21"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
+            "team1Name": "Gilbert Monotheists",
             "team1Abbr": "MILF",
-            "team2Name": "Alewife Arsonists",
+            "team2Name": "Tempe Fisticuffs",
             "team2Abbr": "AA",
             "patternName": "bigsegment",
             "season": 8,
@@ -553,9 +553,9 @@
             "team2Color": "#ff1717"
         },
         {
-            "team1Name": "Detroit Grape Chews",
+            "team1Name": "Peoria Gastroenterologists",
             "team1Abbr": "DET",
-            "team2Name": "Orlando Business Majors",
+            "team2Name": "Prescott Universal Constants",
             "team2Abbr": "ORL",
             "patternName": "donutcore",
             "season": 8,
@@ -569,9 +569,9 @@
     ],
     [
         {
-            "team1Name": "Salt Lake Turbulence",
+            "team1Name": "Chandler Inspectors",
             "team1Abbr": "SLC",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Yuma Cholera",
             "team2Abbr": "FWPT",
             "patternName": "bigsegment",
             "season": 8,
@@ -583,9 +583,9 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Seattle Sneakers",
+            "team1Name": "Green Valley Toxoplasmosis",
             "team1Abbr": "SS",
-            "team2Name": "Long Beach Flightless Birds",
+            "team2Name": "Apache Junction Birdcallers",
             "team2Abbr": "LBFB",
             "patternName": "randomsegment",
             "season": 8,
@@ -597,9 +597,9 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Elko Astronauts",
+            "team1Name": "Bullhead City Surgeons",
             "team1Abbr": "EA",
-            "team2Name": "Baltimore Texas",
+            "team2Name": "Mesa Insurrectionists",
             "team2Abbr": "BTX",
             "patternName": "randomsegment",
             "season": 8,
@@ -611,9 +611,9 @@
             "team2Color": "#3e92cc"
         },
         {
-            "team1Name": "Tucson Butchers",
+            "team1Name": "Scottsdale Knuckeballers",
             "team1Abbr": "TB",
-            "team2Name": "Jersey OSHA Violations",
+            "team2Name": "Phoenix Knickerboxers",
             "team2Abbr": "OSHA",
             "patternName": "donutmethuselahs",
             "season": 8,
@@ -625,9 +625,9 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Phoenix Freshrolls",
+            "team1Name": "Buckeye Jackets",
             "team1Abbr": "FF",
-            "team2Name": "San Diego Balloon Animals",
+            "team2Name": "Lake Havasu City Counter-Spies",
             "team2Abbr": "SDBA",
             "patternName": "donutmultums",
             "season": 8,
@@ -639,9 +639,9 @@
             "team2Color": "#f08700"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
+            "team1Name": "Casas Adobes Feral Pigs",
             "team1Abbr": "SFBS",
-            "team2Name": "Boylston Boogers",
+            "team2Name": "San Luis Oscillators",
             "team2Abbr": "BB",
             "patternName": "donutmultums",
             "season": 8,
@@ -653,9 +653,9 @@
             "team2Color": "#697a21"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
+            "team1Name": "Gilbert Monotheists",
             "team1Abbr": "MILF",
-            "team2Name": "Detroit Grape Chews",
+            "team2Name": "Peoria Gastroenterologists",
             "team2Abbr": "DET",
             "patternName": "randys",
             "season": 8,
@@ -667,9 +667,9 @@
             "team2Color": "#9963ab"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
+            "team1Name": "Sun City Couchfeet",
             "team1Abbr": "SAC",
-            "team2Name": "Alewife Arsonists",
+            "team2Name": "Tempe Fisticuffs",
             "team2Abbr": "AA",
             "patternName": "donutmath",
             "season": 8,
@@ -681,9 +681,9 @@
             "team2Color": "#ff1717"
         },
         {
-            "team1Name": "Orlando Business Majors",
+            "team1Name": "Prescott Universal Constants",
             "team1Abbr": "ORL",
-            "team2Name": "Delaware Corporate Shells",
+            "team2Name": "Casa Grande Laptop Thieves",
             "team2Abbr": "DECO",
             "patternName": "donutmultums",
             "season": 8,
@@ -695,9 +695,9 @@
             "team2Color": "#a0e7e8"
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
+            "team1Name": "Goodyear Gearheads",
             "team1Abbr": "SGE",
-            "team2Name": "Albuquerque Solarpunks",
+            "team2Name": "Prescott Examiners",
             "team2Abbr": "ABQ",
             "patternName": "donutcore",
             "season": 8,
@@ -711,9 +711,9 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
+            "team1Name": "Mesa Insurrectionists",
             "team1Abbr": "BTX",
-            "team2Name": "Elko Astronauts",
+            "team2Name": "Bullhead City Surgeons",
             "team2Abbr": "EA",
             "patternName": "donutrandompartition",
             "season": 8,
@@ -725,9 +725,9 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Seattle Sneakers",
+            "team1Name": "Green Valley Toxoplasmosis",
             "team1Abbr": "SS",
-            "team2Name": "Tucson Butchers",
+            "team2Name": "Scottsdale Knuckeballers",
             "team2Abbr": "TB",
             "patternName": "donutmethuselahs",
             "season": 8,
@@ -739,9 +739,9 @@
             "team2Color": "#BB0000"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
+            "team1Name": "Lake Havasu City Counter-Spies",
             "team1Abbr": "SDBA",
-            "team2Name": "Long Beach Flightless Birds",
+            "team2Name": "Apache Junction Birdcallers",
             "team2Abbr": "LBFB",
             "patternName": "donutcore",
             "season": 8,
@@ -753,9 +753,9 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Phoenix Freshrolls",
+            "team1Name": "Buckeye Jackets",
             "team1Abbr": "FF",
-            "team2Name": "Salt Lake Turbulence",
+            "team2Name": "Chandler Inspectors",
             "team2Abbr": "SLC",
             "patternName": "donuttimebombredux",
             "season": 8,
@@ -767,9 +767,9 @@
             "team2Color": "#00cc44"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
+            "team1Name": "Phoenix Knickerboxers",
             "team1Abbr": "OSHA",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Yuma Cholera",
             "team2Abbr": "FWPT",
             "patternName": "porchlights",
             "season": 8,
@@ -781,9 +781,9 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Boylston Boogers",
+            "team1Name": "San Luis Oscillators",
             "team1Abbr": "BB",
-            "team2Name": "Alewife Arsonists",
+            "team2Name": "Tempe Fisticuffs",
             "team2Abbr": "AA",
             "patternName": "donutmethuselahs",
             "season": 8,
@@ -795,9 +795,9 @@
             "team2Color": "#ff1717"
         },
         {
-            "team1Name": "Orlando Business Majors",
+            "team1Name": "Prescott Universal Constants",
             "team1Abbr": "ORL",
-            "team2Name": "Detroit Grape Chews",
+            "team2Name": "Peoria Gastroenterologists",
             "team2Abbr": "DET",
             "patternName": "donutmethuselahs",
             "season": 8,
@@ -809,9 +809,9 @@
             "team2Color": "#9963ab"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
+            "team1Name": "Sun City Couchfeet",
             "team1Abbr": "SAC",
-            "team2Name": "Albuquerque Solarpunks",
+            "team2Name": "Prescott Examiners",
             "team2Abbr": "ABQ",
             "patternName": "donuttimebomb",
             "season": 8,
@@ -823,9 +823,9 @@
             "team2Color": "#d41199"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
+            "team1Name": "Casas Adobes Feral Pigs",
             "team1Abbr": "SFBS",
-            "team2Name": "Sugar Grove Eavesdroppers",
+            "team2Name": "Goodyear Gearheads",
             "team2Abbr": "SGE",
             "patternName": "donutmethuselahs",
             "season": 8,
@@ -837,9 +837,9 @@
             "team2Color": "#fefe67"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
+            "team1Name": "Gilbert Monotheists",
             "team1Abbr": "MILF",
-            "team2Name": "Delaware Corporate Shells",
+            "team2Name": "Casa Grande Laptop Thieves",
             "team2Abbr": "DECO",
             "patternName": "donutpi",
             "season": 8,
@@ -853,9 +853,9 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Yuma Cholera",
             "team1Abbr": "FWPT",
-            "team2Name": "Tucson Butchers",
+            "team2Name": "Scottsdale Knuckeballers",
             "team2Abbr": "TB",
             "patternName": "donutmethuselahs",
             "season": 8,
@@ -867,9 +867,9 @@
             "team2Color": "#BB0000"
         },
         {
-            "team1Name": "Elko Astronauts",
+            "team1Name": "Bullhead City Surgeons",
             "team1Abbr": "EA",
-            "team2Name": "San Diego Balloon Animals",
+            "team2Name": "Lake Havasu City Counter-Spies",
             "team2Abbr": "SDBA",
             "patternName": "quadjustyna",
             "season": 8,
@@ -881,9 +881,9 @@
             "team2Color": "#f08700"
         },
         {
-            "team1Name": "Seattle Sneakers",
+            "team1Name": "Green Valley Toxoplasmosis",
             "team1Abbr": "SS",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Buckeye Jackets",
             "team2Abbr": "FF",
             "patternName": "quadjustyna",
             "season": 8,
@@ -895,9 +895,9 @@
             "team2Color": "#b0b0b0"
         },
         {
-            "team1Name": "Baltimore Texas",
+            "team1Name": "Mesa Insurrectionists",
             "team1Abbr": "BTX",
-            "team2Name": "Long Beach Flightless Birds",
+            "team2Name": "Apache Junction Birdcallers",
             "team2Abbr": "LBFB",
             "patternName": "bigsegment",
             "season": 8,
@@ -909,9 +909,9 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
+            "team1Name": "Phoenix Knickerboxers",
             "team1Abbr": "OSHA",
-            "team2Name": "Salt Lake Turbulence",
+            "team2Name": "Chandler Inspectors",
             "team2Abbr": "SLC",
             "patternName": "donutmath",
             "season": 8,
@@ -923,9 +923,9 @@
             "team2Color": "#00cc44"
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
+            "team1Name": "Goodyear Gearheads",
             "team1Abbr": "SGE",
-            "team2Name": "Delaware Corporate Shells",
+            "team2Name": "Casa Grande Laptop Thieves",
             "team2Abbr": "DECO",
             "patternName": "randomsegment",
             "season": 8,
@@ -937,9 +937,9 @@
             "team2Color": "#a0e7e8"
         },
         {
-            "team1Name": "Boylston Boogers",
+            "team1Name": "San Luis Oscillators",
             "team1Abbr": "BB",
-            "team2Name": "San Francisco Boat Shoes",
+            "team2Name": "Casas Adobes Feral Pigs",
             "team2Abbr": "SFBS",
             "patternName": "donutmultums",
             "season": 8,
@@ -951,9 +951,9 @@
             "team2Color": "#e7d7c1"
         },
         {
-            "team1Name": "Albuquerque Solarpunks",
+            "team1Name": "Prescott Examiners",
             "team1Abbr": "ABQ",
-            "team2Name": "Orlando Business Majors",
+            "team2Name": "Prescott Universal Constants",
             "team2Abbr": "ORL",
             "patternName": "donuttimebombredux",
             "season": 8,
@@ -965,9 +965,9 @@
             "team2Color": "#0dab76"
         },
         {
-            "team1Name": "Detroit Grape Chews",
+            "team1Name": "Peoria Gastroenterologists",
             "team1Abbr": "DET",
-            "team2Name": "Milwaukee Flamingos",
+            "team2Name": "Gilbert Monotheists",
             "team2Abbr": "MILF",
             "patternName": "randys",
             "season": 8,
@@ -979,9 +979,9 @@
             "team2Color": "#ff66cc"
         },
         {
-            "team1Name": "Alewife Arsonists",
+            "team1Name": "Tempe Fisticuffs",
             "team1Abbr": "AA",
-            "team2Name": "Sacramento Boot Lickers",
+            "team2Name": "Sun City Couchfeet",
             "team2Abbr": "SAC",
             "patternName": "randomsegment",
             "season": 8,
@@ -995,9 +995,9 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
+            "team1Name": "Mesa Insurrectionists",
             "team1Abbr": "BTX",
-            "team2Name": "Tucson Butchers",
+            "team2Name": "Scottsdale Knuckeballers",
             "team2Abbr": "TB",
             "patternName": "quadjustyna",
             "season": 8,
@@ -1009,9 +1009,9 @@
             "team2Color": "#BB0000"
         },
         {
-            "team1Name": "Phoenix Freshrolls",
+            "team1Name": "Buckeye Jackets",
             "team1Abbr": "FF",
-            "team2Name": "Seattle Sneakers",
+            "team2Name": "Green Valley Toxoplasmosis",
             "team2Abbr": "SS",
             "patternName": "donutcore",
             "season": 8,
@@ -1023,9 +1023,9 @@
             "team2Color": "#e86215"
         },
         {
-            "team1Name": "Salt Lake Turbulence",
+            "team1Name": "Chandler Inspectors",
             "team1Abbr": "SLC",
-            "team2Name": "Long Beach Flightless Birds",
+            "team2Name": "Apache Junction Birdcallers",
             "team2Abbr": "LBFB",
             "patternName": "donuttimebombredux",
             "season": 8,
@@ -1037,9 +1037,9 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
+            "team1Name": "Lake Havasu City Counter-Spies",
             "team1Abbr": "SDBA",
-            "team2Name": "Jersey OSHA Violations",
+            "team2Name": "Phoenix Knickerboxers",
             "team2Abbr": "OSHA",
             "patternName": "donutcore",
             "season": 8,
@@ -1051,9 +1051,9 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Elko Astronauts",
+            "team1Name": "Bullhead City Surgeons",
             "team1Abbr": "EA",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team2Name": "Yuma Cholera",
             "team2Abbr": "FWPT",
             "patternName": "donutrandom",
             "season": 8,
@@ -1065,9 +1065,9 @@
             "team2Color": "#ef6f6c"
         },
         {
-            "team1Name": "Alewife Arsonists",
+            "team1Name": "Tempe Fisticuffs",
             "team1Abbr": "AA",
-            "team2Name": "Delaware Corporate Shells",
+            "team2Name": "Casa Grande Laptop Thieves",
             "team2Abbr": "DECO",
             "patternName": "donutmethuselahs",
             "season": 8,
@@ -1079,9 +1079,9 @@
             "team2Color": "#a0e7e8"
         },
         {
-            "team1Name": "Boylston Boogers",
+            "team1Name": "San Luis Oscillators",
             "team1Abbr": "BB",
-            "team2Name": "Detroit Grape Chews",
+            "team2Name": "Peoria Gastroenterologists",
             "team2Abbr": "DET",
             "patternName": "bigsegment",
             "season": 8,
@@ -1093,9 +1093,9 @@
             "team2Color": "#9963ab"
         },
         {
-            "team1Name": "Orlando Business Majors",
+            "team1Name": "Prescott Universal Constants",
             "team1Abbr": "ORL",
-            "team2Name": "Albuquerque Solarpunks",
+            "team2Name": "Prescott Examiners",
             "team2Abbr": "ABQ",
             "patternName": "quadjustyna",
             "season": 8,
@@ -1107,9 +1107,9 @@
             "team2Color": "#d41199"
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
+            "team1Name": "Goodyear Gearheads",
             "team1Abbr": "SGE",
-            "team2Name": "Sacramento Boot Lickers",
+            "team2Name": "Sun City Couchfeet",
             "team2Abbr": "SAC",
             "patternName": "quadjustyna",
             "season": 8,
@@ -1121,9 +1121,9 @@
             "team2Color": "#ffb627"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
+            "team1Name": "Casas Adobes Feral Pigs",
             "team1Abbr": "SFBS",
-            "team2Name": "Milwaukee Flamingos",
+            "team2Name": "Gilbert Monotheists",
             "team2Abbr": "MILF",
             "patternName": "donutrandom",
             "season": 8,
@@ -1137,9 +1137,9 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Yuma Cholera",
             "team1Abbr": "FWPT",
-            "team2Name": "San Diego Balloon Animals",
+            "team2Name": "Lake Havasu City Counter-Spies",
             "team2Abbr": "SDBA",
             "patternName": "bigsegment",
             "season": 8,
@@ -1151,9 +1151,9 @@
             "team2Color": "#f08700"
         },
         {
-            "team1Name": "Seattle Sneakers",
+            "team1Name": "Green Valley Toxoplasmosis",
             "team1Abbr": "SS",
-            "team2Name": "Long Beach Flightless Birds",
+            "team2Name": "Apache Junction Birdcallers",
             "team2Abbr": "LBFB",
             "patternName": "donutmethuselahs",
             "season": 8,
@@ -1165,9 +1165,9 @@
             "team2Color": "#f2c57c"
         },
         {
-            "team1Name": "Phoenix Freshrolls",
+            "team1Name": "Buckeye Jackets",
             "team1Abbr": "FF",
-            "team2Name": "Elko Astronauts",
+            "team2Name": "Bullhead City Surgeons",
             "team2Abbr": "EA",
             "patternName": "donutcore",
             "season": 8,
@@ -1179,9 +1179,9 @@
             "team2Color": "#a0e7e5"
         },
         {
-            "team1Name": "Tucson Butchers",
+            "team1Name": "Scottsdale Knuckeballers",
             "team1Abbr": "TB",
-            "team2Name": "Jersey OSHA Violations",
+            "team2Name": "Phoenix Knickerboxers",
             "team2Abbr": "OSHA",
             "patternName": "donutrandom",
             "season": 8,
@@ -1193,9 +1193,9 @@
             "team2Color": "#53917e"
         },
         {
-            "team1Name": "Baltimore Texas",
+            "team1Name": "Mesa Insurrectionists",
             "team1Abbr": "BTX",
-            "team2Name": "Salt Lake Turbulence",
+            "team2Name": "Chandler Inspectors",
             "team2Abbr": "SLC",
             "patternName": "donutcore",
             "season": 8,
@@ -1207,9 +1207,9 @@
             "team2Color": "#00cc44"
         },
         {
-            "team1Name": "Sugar Grove Eavesdroppers",
+            "team1Name": "Goodyear Gearheads",
             "team1Abbr": "SGE",
-            "team2Name": "Sacramento Boot Lickers",
+            "team2Name": "Sun City Couchfeet",
             "team2Abbr": "SAC",
             "patternName": "donutrandompartition",
             "season": 8,
@@ -1221,9 +1221,9 @@
             "team2Color": "#ffb627"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
+            "team1Name": "Casa Grande Laptop Thieves",
             "team1Abbr": "DECO",
-            "team2Name": "Alewife Arsonists",
+            "team2Name": "Tempe Fisticuffs",
             "team2Abbr": "AA",
             "patternName": "bigsegment",
             "season": 8,
@@ -1235,9 +1235,9 @@
             "team2Color": "#ff1717"
         },
         {
-            "team1Name": "Detroit Grape Chews",
+            "team1Name": "Peoria Gastroenterologists",
             "team1Abbr": "DET",
-            "team2Name": "Albuquerque Solarpunks",
+            "team2Name": "Prescott Examiners",
             "team2Abbr": "ABQ",
             "patternName": "donutpi",
             "season": 8,
@@ -1249,9 +1249,9 @@
             "team2Color": "#d41199"
         },
         {
-            "team1Name": "Boylston Boogers",
+            "team1Name": "San Luis Oscillators",
             "team1Abbr": "BB",
-            "team2Name": "San Francisco Boat Shoes",
+            "team2Name": "Casas Adobes Feral Pigs",
             "team2Abbr": "SFBS",
             "patternName": "donutmethuselahs",
             "season": 8,
@@ -1263,9 +1263,9 @@
             "team2Color": "#e7d7c1"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
+            "team1Name": "Gilbert Monotheists",
             "team1Abbr": "MILF",
-            "team2Name": "Orlando Business Majors",
+            "team2Name": "Prescott Universal Constants",
             "team2Abbr": "ORL",
             "patternName": "donutrandom",
             "season": 8,
