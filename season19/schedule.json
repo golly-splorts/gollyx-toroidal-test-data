@@ -123,7 +123,7 @@
             "id": "e3689117-2f2d-4c89-85d4-4100b4d26be1",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#ads0e7e8",
+            "team1Color": "#a0e7e8",
             "team2Color": "#e7d7c1"
         },
         {
@@ -224,7 +224,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#d41199",
-            "team2Color": "#ads0e7e8"
+            "team2Color": "#a0e7e8"
         },
         {
             "team1Name": "Peoria Gastroenterologists",
@@ -408,7 +408,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#ads0e7e8"
+            "team2Color": "#a0e7e8"
         },
         {
             "team1Name": "Gilbert Monotheists",
@@ -535,7 +535,7 @@
             "id": "6a9c5e4a-058b-4d41-a276-2421fdea0ec9",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#ads0e7e8",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717"
         },
         {
@@ -705,7 +705,7 @@
             "id": "a2bb0927-de22-4324-b58c-e745e3983162",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#ads0e7e8",
+            "team1Color": "#a0e7e8",
             "team2Color": "#d41199"
         }
     ],
@@ -806,7 +806,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#ads0e7e8"
+            "team2Color": "#a0e7e8"
         },
         {
             "team1Name": "Peoria Gastroenterologists",
@@ -962,7 +962,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#daed20",
-            "team2Color": "#ads0e7e8"
+            "team2Color": "#a0e7e8"
         },
         {
             "team1Name": "Prescott Universal Constants",
@@ -1075,7 +1075,7 @@
             "id": "1155d578-7d96-405a-b37f-a1606bf0fc86",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#ads0e7e8",
+            "team1Color": "#a0e7e8",
             "team2Color": "#d41199"
         },
         {
@@ -1260,7 +1260,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#ads0e7e8"
+            "team2Color": "#a0e7e8"
         },
         {
             "team1Name": "Peoria Gastroenterologists",
