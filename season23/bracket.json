@@ -1,0 +1,479 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 23,
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Buckeye Jackets",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "FF",
+                "patternName": "donutmethuselahs",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "392a6719-b45c-4d46-8aba-ecf3a6b7c9c0",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 23,
+                "team1Name": "Green Valley Toxoplasmosis",
+                "team2Name": "Phoenix Knickerboxers",
+                "team1Abbr": "SS",
+                "team2Abbr": "OSHA",
+                "patternName": "quadjustyna",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "b1e164a9-b7cd-4a8c-8074-3a99eb4a5452",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 23,
+                "team1Name": "Tempe Fisticuffs",
+                "team2Name": "Goodyear Gearheads",
+                "team1Abbr": "AA",
+                "team2Abbr": "SGE",
+                "patternName": "porchlights",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "f7ca6dba-fd67-4733-bc4a-e74cfaff0ac6",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 23,
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Peoria Gastroenterologists",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "DET",
+                "patternName": "crabdonuts",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "124fd56e-ffca-4c3e-aeab-d81a49c89ac3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 23,
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Buckeye Jackets",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "FF",
+                "patternName": "donutmethuselahs",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "6c71aac1-5ada-4adb-bc59-e933d7854d31",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 23,
+                "team1Name": "Green Valley Toxoplasmosis",
+                "team2Name": "Phoenix Knickerboxers",
+                "team1Abbr": "SS",
+                "team2Abbr": "OSHA",
+                "patternName": "donutrandompartition",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "906b3a25-8e8d-44b8-ad3f-ce248a40e048",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 23,
+                "team1Name": "Tempe Fisticuffs",
+                "team2Name": "Goodyear Gearheads",
+                "team1Abbr": "AA",
+                "team2Abbr": "SGE",
+                "patternName": "quadjustyna",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "67bab8e9-1498-4a19-9f61-708566bb6202",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 23,
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Peoria Gastroenterologists",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "DET",
+                "patternName": "donutrandom",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "b424ea7a-2d40-40e5-bd4b-7c3afd1fa679",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 23,
+                "team1Name": "Buckeye Jackets",
+                "team2Name": "Apache Junction Birdcallers",
+                "team1Abbr": "FF",
+                "team2Abbr": "LBFB",
+                "patternName": "donutrandompartition",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "8250e521-5d97-4384-9b49-49354a29bb19",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 23,
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "Green Valley Toxoplasmosis",
+                "team1Abbr": "OSHA",
+                "team2Abbr": "SS",
+                "patternName": "donutmethuselahs",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "847deb0e-2114-42b5-9ae6-e2a2c04047fe",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 23,
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Tempe Fisticuffs",
+                "team1Abbr": "SGE",
+                "team2Abbr": "AA",
+                "patternName": "porchlights",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "4d021a7b-bdf7-42f6-8c19-3dfe0dbc3ff1",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 23,
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "Casas Adobes Feral Pigs",
+                "team1Abbr": "DET",
+                "team2Abbr": "SFBS",
+                "patternName": "donutpi",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "f8d76eee-bb1f-470f-9471-5e9ade812ef3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 23,
+                "team1Name": "Buckeye Jackets",
+                "team2Name": "Apache Junction Birdcallers",
+                "team1Abbr": "FF",
+                "team2Abbr": "LBFB",
+                "patternName": "porchlights",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "bab15d9a-d782-4197-9557-77e7f152f2a1",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 23,
+                "team1Name": "Phoenix Knickerboxers",
+                "team2Name": "Green Valley Toxoplasmosis",
+                "team1Abbr": "OSHA",
+                "team2Abbr": "SS",
+                "patternName": "doublegaussian",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "5944c254-e2ed-4428-ab7d-4b9002c89fbd",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 23,
+                "team1Name": "Goodyear Gearheads",
+                "team2Name": "Tempe Fisticuffs",
+                "team1Abbr": "SGE",
+                "team2Abbr": "AA",
+                "patternName": "quadjustyna",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "b133117e-e151-4907-84ad-abbae80a1766",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 23,
+                "team1Name": "Peoria Gastroenterologists",
+                "team2Name": "Casas Adobes Feral Pigs",
+                "team1Abbr": "DET",
+                "team2Abbr": "SFBS",
+                "patternName": "donutmethuselahs",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "5b8294ea-4198-48a5-b5b0-15461b3b487a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 23,
+                "team1Name": "Apache Junction Birdcallers",
+                "team2Name": "Buckeye Jackets",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "FF",
+                "patternName": "donutrandom",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "46f73223-9416-45ae-9e38-5f2bf3d22967",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 23,
+                "team1Name": "Green Valley Toxoplasmosis",
+                "team2Name": "Phoenix Knickerboxers",
+                "team1Abbr": "SS",
+                "team2Abbr": "OSHA",
+                "patternName": "doublegaussian",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "f746c5a9-5c65-49a3-b739-5b18bff0806d",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 23,
+                "team1Name": "Tempe Fisticuffs",
+                "team2Name": "Goodyear Gearheads",
+                "team1Abbr": "AA",
+                "team2Abbr": "SGE",
+                "patternName": "bigsegment",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "39fe532c-fac7-457f-aa77-6d0dab5a2154",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 23,
+                "team1Name": "Casas Adobes Feral Pigs",
+                "team2Name": "Peoria Gastroenterologists",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "DET",
+                "patternName": "donuttimebomb",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "36107ca1-666e-4f7a-bee4-5fd95f4bf4a0",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donuttimebomb",
+                "league": "Cold League",
+                "season": 23,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "fece6fb4-6b78-4146-ba3e-004a6546f13a",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmultums",
+                "league": "Hot League",
+                "season": 23,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "2e206061-6bed-44a4-8cf6-f751a727ab1f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "porchlights",
+                "league": "Cold League",
+                "season": 23,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "de0ec1ff-f371-449a-ba56-94f85ae6088d",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randys",
+                "league": "Hot League",
+                "season": 23,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "fc59e1c1-bd22-408d-96bb-9c6ba5ee8e74",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmethuselahs",
+                "league": "Cold League",
+                "season": 23,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "29a5b405-058d-4a7c-b4b9-047d74ec9c61",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutcore",
+                "league": "Hot League",
+                "season": 23,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "f1b1e5cc-4a81-4e48-baae-e69a2340c1ef",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "bigsegment",
+                "league": "Cold League",
+                "season": 23,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "a67b0245-89e2-4bc0-b784-c009c4ff36e9",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmath",
+                "league": "Hot League",
+                "season": 23,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "3902817f-305a-413f-b4cb-26ff9a7716ba",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donuttimebombredux",
+                "league": "Cold League",
+                "season": 23,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "9a4e3907-9b45-432d-95a6-6b13313b5034",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donuttimebomb",
+                "league": "Hot League",
+                "season": 23,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "b26c2b20-cce9-4787-8c7d-0933349e7743",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "quadjustyna",
+                "description": "Game 1, Toroidal Cup",
+                "season": 23,
+                "id": "b2feca3d-d5e0-4e58-99fc-c528a62a6d0a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutcore",
+                "description": "Game 2, Toroidal Cup",
+                "season": 23,
+                "id": "a1b4562d-3cc2-4253-be4a-7768ed217705",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmethuselahs",
+                "description": "Game 3, Toroidal Cup",
+                "season": 23,
+                "id": "17a5a6d1-a20b-4078-b3f5-f35901d59e29",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutrandompartition",
+                "description": "Game 4, Toroidal Cup",
+                "season": 23,
+                "id": "13bc1659-d487-4d84-94fe-2ca995af8582",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "bigsegment",
+                "description": "Game 5, Toroidal Cup",
+                "season": 23,
+                "id": "08ec9154-4d8d-459e-8599-7dfeb1357bdc",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutrandom",
+                "description": "Game 6, Toroidal Cup",
+                "season": 23,
+                "id": "4affc39d-c5a4-445e-970f-cb68943dfff4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "porchlights",
+                "description": "Game 7, Toroidal Cup",
+                "season": 23,
+                "id": "0d9ac80b-b007-4e39-9bfb-b62fcd147069",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
