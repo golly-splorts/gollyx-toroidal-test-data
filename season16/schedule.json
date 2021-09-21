@@ -123,7 +123,7 @@
             "gameid": "0f4542bd-2b9b-44e4-baab-a0fd106ee03a",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#697a21"
         },
         {
@@ -265,7 +265,7 @@
             "gameid": "17c20b58-f960-4e92-96e2-74330c733bff",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ffb627"
         },
         {
@@ -365,7 +365,7 @@
             "gameid": "ff1ed7fa-a357-444f-9b04-2c8e35b7168f",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ffb627"
         },
         {
@@ -508,7 +508,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#a0e7e8",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Prescott Universal Constants",
@@ -692,7 +692,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Gilbert Monotheists",
@@ -847,7 +847,7 @@
             "gameid": "64f16783-5908-4267-989b-8f00066917eb",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#d41199"
         }
     ],
@@ -975,7 +975,7 @@
             "gameid": "7f7ba25e-72a5-4903-8a20-817414f2234d",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#0dab76"
         },
         {
@@ -1076,7 +1076,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Prescott Universal Constants",
@@ -1245,7 +1245,7 @@
             "gameid": "491558f1-4fe9-4357-b5d9-e754f6ab0811",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#697a21"
         },
         {

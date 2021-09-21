@@ -124,7 +124,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Sun City Couchfeet",
@@ -251,7 +251,7 @@
             "gameid": "2cacddc3-3106-4d2d-876e-b8582ee4aa4b",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#0dab76"
         },
         {
@@ -365,7 +365,7 @@
             "gameid": "6663ffef-f36b-45c4-86f1-6e5131ffaae7",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#a0e7e8"
         },
         {
@@ -563,7 +563,7 @@
             "gameid": "1905b844-1463-482f-8cb9-93d9e1fd0064",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#e7d7c1"
         }
     ],
@@ -663,7 +663,7 @@
             "gameid": "ee30bc02-3adb-4bdc-8195-34faa1cb7880",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff1717"
         },
         {
@@ -847,7 +847,7 @@
             "gameid": "5e662114-9714-4de7-9a12-14e6157bc877",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ffb627"
         }
     ],
@@ -976,7 +976,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "San Luis Oscillators",
@@ -1090,7 +1090,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Casa Grande Laptop Thieves",
@@ -1232,7 +1232,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Casa Grande Laptop Thieves",

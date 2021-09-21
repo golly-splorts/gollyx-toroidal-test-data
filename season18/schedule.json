@@ -138,7 +138,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         }
     ],
     [
@@ -223,7 +223,7 @@
             "gameid": "8a644594-ae6b-4174-9bde-21de4c460e45",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#e7d7c1"
         },
         {
@@ -421,7 +421,7 @@
             "gameid": "ca0c7d89-6030-4af8-88ee-14c926611b2c",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff1717"
         }
     ],
@@ -536,7 +536,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Casa Grande Laptop Thieves",
@@ -706,7 +706,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         }
     ],
     [
@@ -819,7 +819,7 @@
             "gameid": "fc9609cb-e4c4-4d67-b74b-89034cbf5f08",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#697a21"
         },
         {
@@ -990,7 +990,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         }
     ],
     [
@@ -1075,7 +1075,7 @@
             "gameid": "efb60ff0-6396-4c92-98d5-72a7bb776184",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#d41199"
         },
         {
@@ -1231,7 +1231,7 @@
             "gameid": "3c642943-4e38-468a-9a76-57eb71df26d7",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#e7d7c1"
         },
         {

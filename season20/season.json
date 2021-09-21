@@ -238,7 +238,7 @@
             "gameid": "dc7a71a6-1b2b-4355-b03f-e463cf3f7087",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#a0e7e8",
             "map": {
                 "patternName": "quadjustyna",
@@ -734,7 +734,7 @@
             "gameid": "52f23658-58c0-40b4-b8c8-23e435f0a8b7",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#d41199",
             "map": {
                 "patternName": "donutcore",
@@ -1003,7 +1003,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#daed20",
+            "team2Color": "#fefe67",
             "map": {
                 "patternName": "quadjustyna",
                 "mapName": "Justyna Donut",
@@ -1460,7 +1460,7 @@
             "gameid": "13b009a8-b7b7-4b72-9ef9-91d92055dbb2",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff1717",
             "map": {
                 "patternName": "donuttimebomb",
@@ -1767,7 +1767,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#daed20",
+            "team2Color": "#fefe67",
             "map": {
                 "patternName": "donutpi",
                 "mapName": "Donut Pie",
@@ -2224,7 +2224,7 @@
             "gameid": "af59e52a-e8ca-414c-955c-5eea307c4f74",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "donutmath",
@@ -2493,7 +2493,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#daed20",
+            "team2Color": "#fefe67",
             "map": {
                 "patternName": "donutmultums",
                 "mapName": "Donut Cave",
@@ -2951,7 +2951,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#daed20",
+            "team2Color": "#fefe67",
             "map": {
                 "patternName": "bigsegment",
                 "mapName": "Donut Frame",
@@ -3294,7 +3294,7 @@
             "gameid": "296da37d-ddbb-4abe-b687-43a50d92d638",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ffb627",
             "map": {
                 "patternName": "donutrandompartition",

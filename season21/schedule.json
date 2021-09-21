@@ -110,7 +110,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#a0e7e8",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Prescott Universal Constants",
@@ -279,7 +279,7 @@
             "gameid": "c75cd027-31c5-471f-a017-0a444981c674",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#e7d7c1"
         }
     ],
@@ -421,7 +421,7 @@
             "gameid": "a659e497-d059-49f2-8c2b-2551a523dfe8",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#697a21"
         }
     ],
@@ -522,7 +522,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "San Luis Oscillators",
@@ -663,7 +663,7 @@
             "gameid": "18289d00-deb3-467d-92eb-4feafeb4eae5",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#d41199"
         },
         {
@@ -806,7 +806,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Tempe Fisticuffs",
@@ -948,7 +948,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Prescott Examiners",
@@ -1131,7 +1131,7 @@
             "gameid": "afa73892-b7f0-496d-aaff-d46d16457e98",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#d41199"
         }
     ],
@@ -1273,7 +1273,7 @@
             "gameid": "abbbd161-2b61-4c23-8cc1-d8f1279ee3bf",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff1717"
         }
     ]

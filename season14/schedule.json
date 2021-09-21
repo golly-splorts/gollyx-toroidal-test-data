@@ -81,7 +81,7 @@
             "gameid": "a6567f67-dbaf-427d-b8c5-b3fa7129f0ec",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff66cc"
         },
         {
@@ -280,7 +280,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         }
     ],
     [
@@ -394,7 +394,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Prescott Examiners",
@@ -522,7 +522,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#d41199",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Prescott Universal Constants",
@@ -650,7 +650,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Peoria Gastroenterologists",
@@ -833,7 +833,7 @@
             "gameid": "3f061011-9a74-45a5-83b4-abb860a477a1",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff66cc"
         },
         {
@@ -989,7 +989,7 @@
             "gameid": "7fd8d6e0-0968-4bb5-93db-ff4b41c71e66",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#697a21"
         }
     ],
@@ -1131,7 +1131,7 @@
             "gameid": "15a175c8-a508-4e2f-9aa5-bfb81f18f5df",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#e7d7c1"
         }
     ],
@@ -1231,7 +1231,7 @@
             "gameid": "88f1594e-097f-418c-a4d3-cb38809b5f28",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff1717"
         },
         {
