@@ -12,7 +12,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Yuma Cholera",
@@ -195,7 +195,7 @@
             "gameid": "8d4eff6f-2a62-494c-802a-1915bb072abb",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#b0b0b0"
         },
         {
@@ -351,7 +351,7 @@
             "gameid": "94556e98-143d-48c3-8306-fdbfe8fe08de",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#BB0000"
         },
         {
@@ -465,7 +465,7 @@
             "gameid": "c2900bfd-e2ea-4074-99ca-d07cc42d6f26",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#f08700"
         },
         {
@@ -636,7 +636,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Casas Adobes Feral Pigs",
@@ -777,7 +777,7 @@
             "gameid": "0071f515-11f4-4f5a-839b-afa05839795b",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#b0b0b0"
         },
         {
@@ -878,7 +878,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#BB0000",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Bullhead City Surgeons",
@@ -1006,7 +1006,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Buckeye Jackets",
@@ -1190,7 +1190,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Apache Junction Birdcallers",

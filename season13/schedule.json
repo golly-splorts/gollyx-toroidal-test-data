@@ -39,7 +39,7 @@
             "gameid": "49e23b5d-1dcd-4ec8-ac71-3ace9e04b87b",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#f2c57c"
         },
         {
@@ -210,7 +210,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Luis Oscillators",
@@ -351,7 +351,7 @@
             "gameid": "008a064e-a4f6-4408-b9a0-42876eefad9b",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#f2c57c"
         },
         {
@@ -494,7 +494,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Gilbert Monotheists",
@@ -635,7 +635,7 @@
             "gameid": "dc979573-ae8d-43b9-ba2f-3666fe072de8",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#BB0000"
         },
         {
@@ -721,7 +721,7 @@
             "gameid": "0e970e7f-5ce5-40ad-9de1-1a1f43b8956c",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#00cc44"
         },
         {
@@ -863,7 +863,7 @@
             "gameid": "a0fc49fc-b8f4-486c-bea2-5284cc689e92",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#BB0000"
         },
         {
@@ -1005,7 +1005,7 @@
             "gameid": "9a6aa053-9c32-4d46-b99e-e0a4e3356a85",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#00cc44"
         },
         {
@@ -1176,7 +1176,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Chandler Inspectors",

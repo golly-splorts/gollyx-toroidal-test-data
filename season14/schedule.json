@@ -11,7 +11,7 @@
             "gameid": "b885b95a-ba61-4575-bf6c-d060e50a6e89",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#b0b0b0"
         },
         {
@@ -196,7 +196,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#00cc44",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Apache Junction Birdcallers",
@@ -351,7 +351,7 @@
             "gameid": "0233e27f-7b15-4096-903a-876f87204721",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#b0b0b0"
         },
         {
@@ -465,7 +465,7 @@
             "gameid": "f7ea5cf6-4ccb-42aa-8299-66689cd9e24c",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#f08700"
         },
         {
@@ -621,7 +621,7 @@
             "gameid": "3fe5483b-43f4-4cdd-a302-7e0790180ffd",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#BB0000"
         },
         {
@@ -722,7 +722,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Scottsdale Knuckleballers",
@@ -878,7 +878,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Apache Junction Birdcallers",
@@ -1020,7 +1020,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#BB0000",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Bullhead City Surgeons",
@@ -1189,7 +1189,7 @@
             "gameid": "4b055900-994a-43d2-8303-b92ede43b426",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#00cc44"
         },
         {

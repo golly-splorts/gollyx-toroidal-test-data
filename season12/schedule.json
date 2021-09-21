@@ -68,7 +68,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Prescott Examiners",
@@ -195,7 +195,7 @@
             "gameid": "f50c7464-249f-4722-98a9-7699452514ac",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#00cc44"
         },
         {
@@ -337,7 +337,7 @@
             "gameid": "d28bcb68-0b0b-4bec-9d1d-65453ed0e7cf",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#ef6f6c"
         },
         {
@@ -438,7 +438,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Buckeye Jackets",
@@ -594,7 +594,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Phoenix Knickerboxers",
@@ -777,7 +777,7 @@
             "gameid": "5cf3bc7e-fb58-4907-9621-3481d0550f4d",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#00cc44"
         },
         {
@@ -864,7 +864,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Buckeye Jackets",
@@ -1005,7 +1005,7 @@
             "gameid": "d79d8fb8-fe64-4ac5-8e22-1146ea9d5f2c",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#b0b0b0"
         },
         {
@@ -1148,7 +1148,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Chandler Inspectors",

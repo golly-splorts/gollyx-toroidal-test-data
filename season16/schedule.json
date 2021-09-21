@@ -54,7 +54,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Scottsdale Knuckleballers",
@@ -153,7 +153,7 @@
             "gameid": "9b19c141-5477-42a1-94a3-6ba7551a2ac7",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#3e92cc"
         },
         {
@@ -310,7 +310,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Scottsdale Knuckleballers",
@@ -493,7 +493,7 @@
             "gameid": "8635b086-69ef-49d7-a953-bbe358d52c13",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#f08700"
         },
         {
@@ -636,7 +636,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Casa Grande Laptop Thieves",
@@ -722,7 +722,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Buckeye Jackets",
@@ -906,7 +906,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Phoenix Knickerboxers",
@@ -1019,7 +1019,7 @@
             "gameid": "9da52561-86a3-4846-a499-25041d207729",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#b0b0b0"
         },
         {
@@ -1161,7 +1161,7 @@
             "gameid": "74d48fe8-4e76-4b2a-aba1-f61e4bc09ea2",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#ef6f6c"
         },
         {
