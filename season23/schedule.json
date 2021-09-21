@@ -68,7 +68,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Peoria Gastroenterologists",
@@ -109,7 +109,7 @@
             "gameid": "21c4425d-eb4c-44d3-9eef-32f11bf47177",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff66cc"
         },
         {
@@ -195,7 +195,7 @@
             "gameid": "269d8a23-385f-4431-a01c-4a587176612f",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#3e92cc"
         },
         {
@@ -251,7 +251,7 @@
             "gameid": "809ac5c3-6fe3-4faa-a712-6006d22106cb",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff1717"
         },
         {
@@ -296,7 +296,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Apache Junction Birdcallers",
@@ -422,7 +422,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         }
     ],
     [
@@ -494,7 +494,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Prescott Examiners",
@@ -550,7 +550,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Tempe Fisticuffs",
@@ -607,7 +607,7 @@
             "gameid": "eeedaffa-1908-430d-ab02-845cc641fdb2",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#00cc44"
         },
         {
@@ -705,7 +705,7 @@
             "gameid": "0382e228-555d-41b1-814a-a6505cd0e0b4",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#d41199"
         }
     ],
@@ -736,7 +736,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Phoenix Knickerboxers",
@@ -819,7 +819,7 @@
             "gameid": "49b2fefe-927b-4e2d-969b-ed2ca3d6afa7",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ffb627"
         },
         {
@@ -877,7 +877,7 @@
             "gameid": "b5a3e45c-a02e-4c7c-a9cd-b2adaee34f6f",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#53917e"
         },
         {
@@ -976,7 +976,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#d41199",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Casas Adobes Feral Pigs",
@@ -1048,7 +1048,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Buckeye Jackets",
@@ -1090,7 +1090,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#a0e7e8",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Sun City Couchfeet",
@@ -1203,7 +1203,7 @@
             "gameid": "ffd95e43-e877-4186-98f1-37902f43295d",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#a0e7e5"
         },
         {
@@ -1274,7 +1274,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         }
     ]
 ]

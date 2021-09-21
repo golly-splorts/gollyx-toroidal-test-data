@@ -54,7 +54,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Scottsdale Knuckleballers",
@@ -123,7 +123,7 @@
             "gameid": "0f4542bd-2b9b-44e4-baab-a0fd106ee03a",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#697a21"
         },
         {
@@ -153,7 +153,7 @@
             "gameid": "9b19c141-5477-42a1-94a3-6ba7551a2ac7",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#3e92cc"
         },
         {
@@ -265,7 +265,7 @@
             "gameid": "17c20b58-f960-4e92-96e2-74330c733bff",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ffb627"
         },
         {
@@ -310,7 +310,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Scottsdale Knuckleballers",
@@ -365,7 +365,7 @@
             "gameid": "ff1ed7fa-a357-444f-9b04-2c8e35b7168f",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ffb627"
         },
         {
@@ -493,7 +493,7 @@
             "gameid": "8635b086-69ef-49d7-a953-bbe358d52c13",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#f08700"
         },
         {
@@ -508,7 +508,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#a0e7e8",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Prescott Universal Constants",
@@ -636,7 +636,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Casa Grande Laptop Thieves",
@@ -692,7 +692,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Gilbert Monotheists",
@@ -722,7 +722,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Buckeye Jackets",
@@ -847,7 +847,7 @@
             "gameid": "64f16783-5908-4267-989b-8f00066917eb",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#d41199"
         }
     ],
@@ -906,7 +906,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Phoenix Knickerboxers",
@@ -975,7 +975,7 @@
             "gameid": "7f7ba25e-72a5-4903-8a20-817414f2234d",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#0dab76"
         },
         {
@@ -1019,7 +1019,7 @@
             "gameid": "9da52561-86a3-4846-a499-25041d207729",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#b0b0b0"
         },
         {
@@ -1076,7 +1076,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Prescott Universal Constants",
@@ -1161,7 +1161,7 @@
             "gameid": "74d48fe8-4e76-4b2a-aba1-f61e4bc09ea2",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#ef6f6c"
         },
         {
@@ -1245,7 +1245,7 @@
             "gameid": "491558f1-4fe9-4357-b5d9-e754f6ab0811",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#697a21"
         },
         {

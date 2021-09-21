@@ -39,7 +39,7 @@
             "gameid": "49e23b5d-1dcd-4ec8-ac71-3ace9e04b87b",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#f2c57c"
         },
         {
@@ -138,7 +138,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         }
     ],
     [
@@ -210,7 +210,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "San Luis Oscillators",
@@ -266,7 +266,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#a0e7e8",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Peoria Gastroenterologists",
@@ -351,7 +351,7 @@
             "gameid": "008a064e-a4f6-4408-b9a0-42876eefad9b",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#f2c57c"
         },
         {
@@ -407,7 +407,7 @@
             "gameid": "6f73f1c5-786b-4bfc-9e65-98c2a7020549",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ffb627"
         },
         {
@@ -494,7 +494,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Gilbert Monotheists",
@@ -549,7 +549,7 @@
             "gameid": "d18ee41f-76c0-4f96-9bf4-bc7ae5a5138e",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ffb627"
         },
         {
@@ -635,7 +635,7 @@
             "gameid": "dc979573-ae8d-43b9-ba2f-3666fe072de8",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#BB0000"
         },
         {
@@ -664,7 +664,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Casa Grande Laptop Thieves",
@@ -721,7 +721,7 @@
             "gameid": "0e970e7f-5ce5-40ad-9de1-1a1f43b8956c",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#00cc44"
         },
         {
@@ -833,7 +833,7 @@
             "gameid": "de5acfe1-a155-4adc-abc3-f3667e50c5e2",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#d41199"
         },
         {
@@ -863,7 +863,7 @@
             "gameid": "a0fc49fc-b8f4-486c-bea2-5284cc689e92",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#BB0000"
         },
         {
@@ -975,7 +975,7 @@
             "gameid": "4960b7b3-c3a2-4d6c-bd3d-4b99ffc6c2b7",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#e7d7c1"
         },
         {
@@ -1005,7 +1005,7 @@
             "gameid": "9a6aa053-9c32-4d46-b99e-e0a4e3356a85",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#00cc44"
         },
         {
@@ -1090,7 +1090,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Tempe Fisticuffs",
@@ -1176,7 +1176,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Chandler Inspectors",
@@ -1217,7 +1217,7 @@
             "gameid": "4edf572e-d066-45e6-9737-0e943dd45b7f",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#a0e7e8"
         },
         {

@@ -48,7 +48,7 @@
             "gameid": "889cf052-74c8-4354-8100-8694a181c7fb",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#ef6f6c",
             "map": {
                 "patternName": "donutmultums",
@@ -276,7 +276,7 @@
             "gameid": "c04ae857-f445-4305-820a-26544a9a67f4",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#0dab76",
             "map": {
                 "patternName": "doublegaussian",
@@ -393,7 +393,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#aa8040",
+            "team2Color": "#e86215",
             "map": {
                 "patternName": "donuttimebomb",
                 "mapName": "West Donut Desert",
@@ -734,7 +734,7 @@
             "gameid": "a45ea5c6-370b-4220-8d6c-3746e45be4d9",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff1717",
             "map": {
                 "patternName": "donutmath",
@@ -926,7 +926,7 @@
             "gameid": "1a548097-571c-4ba0-9c85-32ec1fe371ea",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#f08700",
             "map": {
                 "patternName": "randys",
@@ -964,7 +964,7 @@
             "gameid": "f4ef9628-1f7c-414d-a05e-42cc666f072f",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#e7d7c1",
             "map": {
                 "patternName": "randys",
@@ -1233,7 +1233,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#00cc44",
-            "team2Color": "#aa8040",
+            "team2Color": "#e86215",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Donut Candy",
@@ -1346,7 +1346,7 @@
             "gameid": "062cec94-ac9d-4092-ae1d-a0ea4769e107",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#e7d7c1",
             "map": {
                 "patternName": "porchlights",
@@ -1576,7 +1576,7 @@
             "gameid": "b701f733-f4cf-43c1-b08c-2b432816f52e",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#53917e",
             "map": {
                 "patternName": "donutrandom",
@@ -1728,7 +1728,7 @@
             "gameid": "e964981a-2f5f-4afd-8ada-1135b1702bbf",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "donutmethuselahs",
@@ -1959,7 +1959,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#BB0000",
-            "team2Color": "#aa8040",
+            "team2Color": "#e86215",
             "map": {
                 "patternName": "bigsegment",
                 "mapName": "Donut Frame",
@@ -2111,7 +2111,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#daed20",
+            "team2Color": "#fefe67",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Donut Candy",
@@ -2303,7 +2303,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#aa8040",
+            "team2Color": "#e86215",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Donut Candy",
@@ -2568,7 +2568,7 @@
             "gameid": "13100b3b-f73f-41f7-ba47-b1b2a6d606b6",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#a0e7e8",
             "map": {
                 "patternName": "donutrandompartition",
@@ -2837,7 +2837,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#aa8040",
+            "team2Color": "#e86215",
             "map": {
                 "patternName": "donutmultums",
                 "mapName": "Donut Cave",
@@ -3026,7 +3026,7 @@
             "gameid": "2464df32-4d09-4e70-a866-f5813e5950d3",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff66cc",
             "map": {
                 "patternName": "donutrandompartition",
@@ -3181,7 +3181,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#aa8040",
+            "team2Color": "#e86215",
             "map": {
                 "patternName": "quadjustyna",
                 "mapName": "Justyna Donut",
@@ -3294,7 +3294,7 @@
             "gameid": "fc07b43b-3d07-4c8e-8186-936503c22c84",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ffb627",
             "map": {
                 "patternName": "donuttimebomb",

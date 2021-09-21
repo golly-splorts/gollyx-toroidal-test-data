@@ -53,7 +53,7 @@
             "gameid": "ea7d8f8e-ffad-4b82-ad1e-38d1f22780d5",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#f08700"
         },
         {
@@ -124,7 +124,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#a0e7e8",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Gilbert Monotheists",
@@ -181,7 +181,7 @@
             "gameid": "408ee1ca-fae5-44bc-a1d0-c3686f79e96c",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#a0e7e5"
         },
         {
@@ -237,7 +237,7 @@
             "gameid": "265833b8-570f-4710-933f-6017e8aac2f8",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff1717"
         },
         {
@@ -295,7 +295,7 @@
             "gameid": "866adf0a-2668-4698-b824-91e6efa0984e",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#3e92cc"
         },
         {
@@ -422,7 +422,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         }
     ],
     [
@@ -466,7 +466,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#b0b0b0",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Yuma Cholera",
@@ -536,7 +536,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Peoria Gastroenterologists",
@@ -593,7 +593,7 @@
             "gameid": "ca4ba0a2-dac7-4c16-9559-58210f87ecbc",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#3e92cc"
         },
         {
@@ -691,7 +691,7 @@
             "gameid": "7d1c0a2e-a472-4c8e-9b26-abb0141d3206",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#d41199"
         },
         {
@@ -778,7 +778,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Gilbert Monotheists",
@@ -848,7 +848,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         }
     ],
     [
@@ -906,7 +906,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Bullhead City Surgeons",
@@ -948,7 +948,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#daed20"
+            "team2Color": "#fefe67"
         },
         {
             "team1Name": "Casa Grande Laptop Thieves",
@@ -1033,7 +1033,7 @@
             "gameid": "b87b1ae4-d16e-43a6-874c-c0d27748cc59",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#aa8040",
+            "team1Color": "#e86215",
             "team2Color": "#f08700"
         },
         {
@@ -1075,7 +1075,7 @@
             "gameid": "20071295-4deb-4427-951f-3d9af7d3aad9",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#ff66cc"
         },
         {
@@ -1190,7 +1190,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#00cc44",
-            "team2Color": "#aa8040"
+            "team2Color": "#e86215"
         },
         {
             "team1Name": "Apache Junction Birdcallers",
@@ -1231,7 +1231,7 @@
             "gameid": "ad8dbcc5-91cd-4394-955c-82fff30c6b0b",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#daed20",
+            "team1Color": "#fefe67",
             "team2Color": "#a0e7e8"
         },
         {
