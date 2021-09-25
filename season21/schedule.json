@@ -109,7 +109,7 @@
             "gameid": "7db889d8-9ef9-470a-9487-ec5791e180bc",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#fefe67"
         },
         {
@@ -224,7 +224,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Prescott Examiners",
@@ -407,7 +407,7 @@
             "gameid": "a5aac859-3244-4257-92a5-7375610eb284",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#d41199"
         },
         {
@@ -507,7 +507,7 @@
             "gameid": "5f97721e-fa71-490e-86e7-b645d46108ff",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ff1717"
         },
         {
@@ -678,7 +678,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Gilbert Monotheists",
@@ -847,7 +847,7 @@
             "gameid": "5f5fe477-b3f5-4347-8b4c-73a1b07a3a69",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#0dab76"
         }
     ],
@@ -962,7 +962,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#d41199",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Casas Adobes Feral Pigs",
@@ -1089,7 +1089,7 @@
             "gameid": "6eb994cc-9f88-4c0c-a83c-9283296f96da",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ff1717"
         },
         {
@@ -1218,7 +1218,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "San Luis Oscillators",
