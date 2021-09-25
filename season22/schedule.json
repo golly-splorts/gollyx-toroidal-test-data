@@ -109,7 +109,7 @@
             "gameid": "f6334eb4-6851-4ae6-9da3-5ea7f71cdce6",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#d41199"
         },
         {
@@ -238,7 +238,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Prescott Universal Constants",
@@ -365,7 +365,7 @@
             "gameid": "a9a7a3bb-0bd7-4cdd-95d7-ecffab97fa00",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#9963ab"
         },
         {
@@ -536,7 +536,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#fefe67",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Prescott Universal Constants",
@@ -692,7 +692,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#fefe67",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "San Luis Oscillators",
@@ -847,7 +847,7 @@
             "gameid": "02f59889-02fc-4751-a5d4-0545e454b527",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#697a21"
         }
     ],
@@ -975,7 +975,7 @@
             "gameid": "8f86c7b2-3911-4d8b-af58-43283abaed8b",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ffb627"
         },
         {
@@ -1076,7 +1076,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Peoria Gastroenterologists",
@@ -1259,7 +1259,7 @@
             "gameid": "84627f40-eb6d-4948-9dec-b7be9812f013",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#0dab76"
         },
         {
