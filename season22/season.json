@@ -40,7 +40,7 @@
         },
         {
             "team1Name": "Yuma Cholera",
-            "team1Abbr": "FWPT",
+            "team1Abbr": "LIL",
             "team2Name": "Chandler Inspectors",
             "team2Abbr": "SLC",
             "season": 22,
@@ -154,7 +154,7 @@
         },
         {
             "team1Name": "Mesa Insurrectionists",
-            "team1Abbr": "BTX",
+            "team1Abbr": "BPT",
             "team2Name": "Buckeye Jackets",
             "team2Abbr": "FF",
             "season": 22,
@@ -276,7 +276,7 @@
             "gameid": "f6334eb4-6851-4ae6-9da3-5ea7f71cdce6",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#d41199",
             "map": {
                 "patternName": "randys",
@@ -306,7 +306,7 @@
         },
         {
             "team1Name": "Casas Adobes Feral Pigs",
-            "team1Abbr": "SFBS",
+            "team1Abbr": "VV",
             "team2Name": "Sun City Couchfeet",
             "team2Abbr": "SAC",
             "season": 22,
@@ -314,7 +314,7 @@
             "gameid": "c08028fb-1338-4f24-a4f1-7f43e0575ce8",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#ffb627",
             "map": {
                 "patternName": "donutrandom",
@@ -386,7 +386,7 @@
             "team1Name": "Bullhead City Surgeons",
             "team1Abbr": "EA",
             "team2Name": "Yuma Cholera",
-            "team2Abbr": "FWPT",
+            "team2Abbr": "LIL",
             "season": 22,
             "day": 1,
             "gameid": "b2176743-a5e9-44bb-8030-ff1c48dacc95",
@@ -460,7 +460,7 @@
         },
         {
             "team1Name": "Mesa Insurrectionists",
-            "team1Abbr": "BTX",
+            "team1Abbr": "BPT",
             "team2Name": "Phoenix Knickerboxers",
             "team2Abbr": "OSHA",
             "season": 22,
@@ -621,7 +621,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "porchlights",
                 "mapName": "Donut Hot Tub",
@@ -726,7 +726,7 @@
         },
         {
             "team1Name": "Casas Adobes Feral Pigs",
-            "team1Abbr": "SFBS",
+            "team1Abbr": "VV",
             "team2Name": "San Luis Oscillators",
             "team2Abbr": "BB",
             "season": 22,
@@ -734,7 +734,7 @@
             "gameid": "9dd63703-da84-49a3-9251-56c7563bd3b9",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "donutrandom",
@@ -804,9 +804,9 @@
         },
         {
             "team1Name": "Mesa Insurrectionists",
-            "team1Abbr": "BTX",
+            "team1Abbr": "BPT",
             "team2Name": "Yuma Cholera",
-            "team2Abbr": "FWPT",
+            "team2Abbr": "LIL",
             "season": 22,
             "day": 2,
             "gameid": "482cf305-378b-4804-ba7f-8f01c41696a1",
@@ -964,7 +964,7 @@
             "gameid": "a9a7a3bb-0bd7-4cdd-95d7-ecffab97fa00",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#9963ab",
             "map": {
                 "patternName": "donutmath",
@@ -1110,14 +1110,14 @@
             "team1Name": "Goodyear Gearheads",
             "team1Abbr": "SGE",
             "team2Name": "Casas Adobes Feral Pigs",
-            "team2Abbr": "SFBS",
+            "team2Abbr": "VV",
             "season": 22,
             "day": 2,
             "gameid": "ef554fea-f327-4ff3-b591-31cf888ba378",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#fefe67",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#aa8040",
             "map": {
                 "patternName": "donuttimebombredux",
                 "mapName": "West Donut Dessert",
@@ -1148,7 +1148,7 @@
     [
         {
             "team1Name": "Yuma Cholera",
-            "team1Abbr": "FWPT",
+            "team1Abbr": "LIL",
             "team2Name": "Scottsdale Knuckleballers",
             "team2Abbr": "TB",
             "season": 22,
@@ -1188,7 +1188,7 @@
             "team1Name": "Buckeye Jackets",
             "team1Abbr": "FF",
             "team2Name": "Mesa Insurrectionists",
-            "team2Abbr": "BTX",
+            "team2Abbr": "BPT",
             "season": 22,
             "day": 3,
             "gameid": "e1c73073-b21e-490e-8b84-85fa12ebba10",
@@ -1376,7 +1376,7 @@
         },
         {
             "team1Name": "Casas Adobes Feral Pigs",
-            "team1Abbr": "SFBS",
+            "team1Abbr": "VV",
             "team2Name": "San Luis Oscillators",
             "team2Abbr": "BB",
             "season": 22,
@@ -1384,7 +1384,7 @@
             "gameid": "d2d12bca-d30a-459f-a9ac-215d9faf0626",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "donuttimebombredux",
@@ -1423,7 +1423,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#fefe67",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "bigsegment",
                 "mapName": "Donut Frame",
@@ -1532,7 +1532,7 @@
             "team1Name": "Scottsdale Knuckleballers",
             "team1Abbr": "TB",
             "team2Name": "Mesa Insurrectionists",
-            "team2Abbr": "BTX",
+            "team2Abbr": "BPT",
             "season": 22,
             "day": 4,
             "gameid": "1c522610-d29d-418b-a16e-41b7f68cc411",
@@ -1644,7 +1644,7 @@
         },
         {
             "team1Name": "Yuma Cholera",
-            "team1Abbr": "FWPT",
+            "team1Abbr": "LIL",
             "team2Name": "Buckeye Jackets",
             "team2Abbr": "FF",
             "season": 22,
@@ -1720,7 +1720,7 @@
         },
         {
             "team1Name": "Casas Adobes Feral Pigs",
-            "team1Abbr": "SFBS",
+            "team1Abbr": "VV",
             "team2Name": "Tempe Fisticuffs",
             "team2Abbr": "AA",
             "season": 22,
@@ -1728,7 +1728,7 @@
             "gameid": "81682867-4bf2-4adb-9781-b7306485ec67",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#ff1717",
             "map": {
                 "patternName": "donuttimebomb",
@@ -1843,7 +1843,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#fefe67",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "donutrandompartition",
                 "mapName": "East Donut Dessert",
@@ -1914,7 +1914,7 @@
             "team1Name": "Phoenix Knickerboxers",
             "team1Abbr": "OSHA",
             "team2Name": "Mesa Insurrectionists",
-            "team2Abbr": "BTX",
+            "team2Abbr": "BPT",
             "season": 22,
             "day": 5,
             "gameid": "bfb83f61-e23c-4009-9359-7578d2d24eee",
@@ -2026,7 +2026,7 @@
         },
         {
             "team1Name": "Yuma Cholera",
-            "team1Abbr": "FWPT",
+            "team1Abbr": "LIL",
             "team2Name": "Chandler Inspectors",
             "team2Abbr": "SLC",
             "season": 22,
@@ -2140,7 +2140,7 @@
         },
         {
             "team1Name": "Casas Adobes Feral Pigs",
-            "team1Abbr": "SFBS",
+            "team1Abbr": "VV",
             "team2Name": "Tempe Fisticuffs",
             "team2Abbr": "AA",
             "season": 22,
@@ -2148,7 +2148,7 @@
             "gameid": "71b606ae-9f15-4f8e-b7d2-33d6e4904676",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#ff1717",
             "map": {
                 "patternName": "quadjustyna",
@@ -2262,7 +2262,7 @@
             "gameid": "02f59889-02fc-4751-a5d4-0545e454b527",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "donutrandompartition",
@@ -2294,7 +2294,7 @@
     [
         {
             "team1Name": "Mesa Insurrectionists",
-            "team1Abbr": "BTX",
+            "team1Abbr": "BPT",
             "team2Name": "Apache Junction Birdcallers",
             "team2Abbr": "LBFB",
             "season": 22,
@@ -2372,7 +2372,7 @@
             "team1Name": "Bullhead City Surgeons",
             "team1Abbr": "EA",
             "team2Name": "Yuma Cholera",
-            "team2Abbr": "FWPT",
+            "team2Abbr": "LIL",
             "season": 22,
             "day": 6,
             "gameid": "36a9fb50-9750-4759-8855-60c54a759c2b",
@@ -2606,7 +2606,7 @@
             "gameid": "8f86c7b2-3911-4d8b-af58-43283abaed8b",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ffb627",
             "map": {
                 "patternName": "donuttimebombredux",
@@ -2636,7 +2636,7 @@
         },
         {
             "team1Name": "Casas Adobes Feral Pigs",
-            "team1Abbr": "SFBS",
+            "team1Abbr": "VV",
             "team2Name": "Peoria Gastroenterologists",
             "team2Abbr": "DET",
             "season": 22,
@@ -2644,7 +2644,7 @@
             "gameid": "a2d8097b-19a6-40b7-a441-1912741b1885",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#9963ab",
             "map": {
                 "patternName": "doublegaussian",
@@ -2676,7 +2676,7 @@
     [
         {
             "team1Name": "Yuma Cholera",
-            "team1Abbr": "FWPT",
+            "team1Abbr": "LIL",
             "team2Name": "Green Valley Toxoplasmosis",
             "team2Abbr": "SS",
             "season": 22,
@@ -2792,7 +2792,7 @@
             "team1Name": "Lake Havasu City Counter-Spies",
             "team1Abbr": "SDBA",
             "team2Name": "Mesa Insurrectionists",
-            "team2Abbr": "BTX",
+            "team2Abbr": "BPT",
             "season": 22,
             "day": 7,
             "gameid": "dafb1580-e133-4b9f-b6ea-4d58a126cf00",
@@ -2875,7 +2875,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Donut Candy",
@@ -2906,14 +2906,14 @@
             "team1Name": "Peoria Gastroenterologists",
             "team1Abbr": "DET",
             "team2Name": "Casas Adobes Feral Pigs",
-            "team2Abbr": "SFBS",
+            "team2Abbr": "VV",
             "season": 22,
             "day": 7,
             "gameid": "96fd2506-651f-48ac-b3a4-c8902e2d986a",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#aa8040",
             "map": {
                 "patternName": "donutpi",
                 "mapName": "Donut Pie",
@@ -3096,9 +3096,9 @@
         },
         {
             "team1Name": "Yuma Cholera",
-            "team1Abbr": "FWPT",
+            "team1Abbr": "LIL",
             "team2Name": "Mesa Insurrectionists",
-            "team2Abbr": "BTX",
+            "team2Abbr": "BPT",
             "season": 22,
             "day": 8,
             "gameid": "faad9ff9-0fac-4126-a495-94f9e7dcac3c",
@@ -3248,7 +3248,7 @@
         },
         {
             "team1Name": "Casas Adobes Feral Pigs",
-            "team1Abbr": "SFBS",
+            "team1Abbr": "VV",
             "team2Name": "Peoria Gastroenterologists",
             "team2Abbr": "DET",
             "season": 22,
@@ -3256,7 +3256,7 @@
             "gameid": "9e7c0c04-459c-4af4-ad42-8cc2fd5d659d",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#9963ab",
             "map": {
                 "patternName": "quadjustyna",
@@ -3370,7 +3370,7 @@
             "gameid": "84627f40-eb6d-4948-9dec-b7be9812f013",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#0dab76",
             "map": {
                 "patternName": "donutrandom",
